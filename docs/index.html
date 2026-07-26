@@ -43,14 +43,23 @@
 
               <hr />
 
-              <!--  -->
-
               <a
                 href="https://forms.gle/pTBUZ9wyJ8RAphpGA"
                 class="btn btn-success btn-lg py-3 fw-semibold shadow-sm text-start"
-                style="background-color: #e056fd"
+                style="background-color: #be2edd"
                 >❓ 有咩問題 ?</a
               >
+
+              <hr />
+
+              <button
+                type="button"
+                id="shareBtn"
+                class="btn btn-success btn-lg py-3 fw-semibold shadow-sm text-start"
+                style="background-color: #30336b; border: none"
+              >
+                🙌 share
+              </button>
             </div>
           </div>
         </div>
@@ -62,5 +71,48 @@
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
       crossorigin="anonymous"
     ></script>
+    <script>
+      document
+        .getElementById("shareBtn")
+        .addEventListener("click", function () {
+          const url = window.location.href;
+
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard
+              .writeText(url)
+              .then(function () {
+                alert("the link has been copied");
+              })
+              .catch(function (err) {
+                fallbackCopyText(url);
+              });
+          } else {
+            fallbackCopyText(url);
+          }
+
+          function fallbackCopyText(text) {
+            const textarea = document.createElement("textarea");
+            textarea.value = text;
+            textarea.style.position = "fixed"; // Avoid scrolling to bottom
+            textarea.style.top = "0";
+            textarea.style.left = "0";
+            textarea.style.opacity = "0";
+            document.body.appendChild(textarea);
+            textarea.focus();
+            textarea.select();
+            try {
+              const successful = document.execCommand("copy");
+              if (successful) {
+                alert("the link has been copied");
+              } else {
+                alert("Failed to copy link");
+              }
+            } catch (err) {
+              alert("Failed to copy link");
+            }
+            document.body.removeChild(textarea);
+          }
+        });
+    </script>
   </body>
 </html>
