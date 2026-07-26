@@ -83,7 +83,7 @@
             navigator.clipboard
               .writeText(url)
               .then(function () {
-                alert("the link has been copied");
+                alert("條 link 而家係剪貼簿，可以分享比朋友 🙌");
               })
               .catch(function (err) {
                 fallbackCopyText(url);
@@ -105,7 +105,7 @@
             try {
               const successful = document.execCommand("copy");
               if (successful) {
-                alert("the link has been copied");
+                alert("條 link 而家係剪貼簿，可以分享比朋友 🙌");
               } else {
                 alert("Failed to copy link");
               }
