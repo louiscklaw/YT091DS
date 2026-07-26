@@ -1,4 +1,4 @@
-// chapter_3_mc.js / chapter_3_mc.md
+// chapter_2_mc.js / chapter_2_mc.md
 // schemas:
 // [
 //  [QUESTION, ANSWER],
@@ -50,6 +50,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 1. 根據陰陽的變化規律，以下哪一項**不屬於**陰陽的主要變化規律？
+<br />
 - A. 陰陽對立
 - B. 陰陽依存
 - C. 陰陽消長與轉化
@@ -67,6 +68,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 2.「陰」與「陽」互相依附、互為存在前提的關係，屬於陰陽的哪一種變化規律？
+<br />
 - A. 陰陽對立
 - B. 陰陽依存
 - C. 陰陽消長
@@ -84,6 +86,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 3. 當陰陽在一定條件下向各自相反的方向發生改變（例如由陰轉陽、由陽轉陰），這體現了陰陽的什麼規律？
+<br />
 - A. 陰陽消長與轉化
 - B. 陰陽對立
 - C. 陰陽依存
@@ -101,6 +104,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 4. 根據中醫理論，以下哪一個器官在陰陽屬性上屬於「陰」？
+<br />
 - A. 膽
 - B. 胃
 - C. 肝
@@ -119,6 +123,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 5. 以下關於「六腑」陰陽屬性的描述，哪一項係正確嘅？
+<br />
 - A. 六腑皆為陰
 - B. 六腑皆為陽
 - C. 五臟皆為陽
@@ -137,6 +142,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 6. 根據文本，以下哪一組器官**全部**屬於「陽」？
+<br />
 - A. 心、脾、肺
 - B. 膽、小腸、三焦
 - C. 肝、腎、大腸
@@ -155,6 +161,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 7. 根據人體部位的陰陽劃分，以下哪一個部位屬於「陽」？
+<br />
 - A. 腹
 - B. 裏
 - C. 下部
@@ -172,6 +179,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 8. 在組織結構方面，以下哪一組全部屬於「陰」？
+<br />
 - A. 皮毛、六腑、氣
 - B. 筋骨、五臟、血
 - C. 筋骨、六腑、氣
@@ -189,6 +197,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 9. 當人體的功能活動狀態呈現「興奮」或「亢進」時，主要體現咗哪一種屬性？
+<br />
 - A. 陽
 - B. 陰
 - C. 寒
@@ -206,6 +215,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 10. 根據表格內容，陽邪致病通常會導致以下哪一種病理變化？
+<br />
 - A. 陰盛傷陽的寒症
 - B. 陽盛傷陰的熱症
 - C. 抑制與衰退
@@ -223,6 +233,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 11. 以下關於「氣」與「血」的陰陽屬性劃分，哪一項描述係正確嘅？
+<br />
 - A. 氣屬於陰，血屬於陽
 - B. 氣與血皆屬於陰
 - C. 氣屬於陽，血屬於陰
@@ -240,6 +251,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 12. 根據六淫的陰陽屬性劃分，以下哪一組致病因素屬於「陰邪」？
+<br />
 - A. 風、暑
 - B. 寒、濕
 - C. 熱、燥
@@ -257,6 +269,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 13. 以下哪一種外因致病因素**不屬於**「陽邪」？
+<br />
 - A. 濕
 - B. 風
 - C. 暑
@@ -274,6 +287,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 14. 根據文本資料，中醫將「六淫」定義為以下哪一種致病因素？
+<br />
 - A. 內因致病
 - B. 不內外因致病
 - C. 外因致病
@@ -291,6 +305,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 15. 根據文本，當人體「正氣虛」的時候，會形成以下哪一種病證？
+<br />
 - A. 實證
 - B. 虛証
 - C. 熱證
@@ -308,6 +323,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 16. 當「邪氣盛」時，喺病理上會形成以下哪一種情況？
+<br />
 - A. 虛証
 - B. 寒證
 - C. 實證
@@ -325,6 +341,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 17. 關於正氣、邪氣與虛實證的關係，以下哪一項描述係正確嘅？
+<br />
 - A. 正氣虛會導致實證
 - B. 邪氣盛會導致虛証
 - C. 正氣虛會導致虛証，邪氣盛會導致實證
@@ -342,6 +359,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 18. 中醫「八綱辨證」一共包含八個綱領，以下哪一組**不屬於**八綱的內容？
+<br />
 - A. 陰陽
 - B. 表裏
 - C. 寒熱
@@ -359,6 +377,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 19. 在八綱辨證當中，哪一對綱領被稱為「主綱」？
+<br />
 - A. 表裏
 - B. 陰陽
 - C. 寒熱
@@ -376,6 +395,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 20. 根據文本，以下哪一項正確列出了八綱辨證的所有辨證綱領？
+<br />
 - A. 陰陽、表裏、寒熱、虛實
 - B. 心肝、脾肺、腎膽、三焦
 - C. 風暑、濕燥、寒熱、陰陽
@@ -393,6 +413,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 21. 中醫五行理論中，「木曰曲直」主要代表以下哪一組特性？
+<br />
 - A. 溫熱向上
 - B. 生長、柔和、能曲能直
 - C. 寒涼、滋潤、下行
@@ -410,6 +431,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 22. 以下哪一個五行特性被描述為「具備溫熱向上特性」？
+<br />
 - A. 木曰曲直
 - B. 土曰稼穡
 - C. 火曰炎上
@@ -427,6 +449,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 23. 「土曰稼穡」在五行特性中主要體現為以下哪一項？
+<br />
 - A. 生化、承載、受納
 - B. 寒涼、閉藏
 - C. 沉降、收斂
@@ -444,6 +467,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 24. 根據文本，具備「沉降、收斂等特性」的五行概念係邊一個？
+<br />
 - A. 水曰潤下
 - B. 金曰從革
 - C. 木曰曲直
@@ -461,6 +485,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 25. 以下哪一組特性**不屬於**「水曰潤下」的描述？
+<br />
 - A. 寒涼、滋潤
 - B. 下行、閉藏
 - C. 生化、承載
@@ -478,6 +503,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 26. 關於五行概念與特性的配對，以下哪一項係**錯誤**嘅？
+<br />
 - A. 木 — 曲直（生長、柔和）
 - B. 火 — 炎上（溫熱向上）
 - C. 金 — 從革（沉降、收斂）
@@ -495,6 +521,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 27. 根據五行歸類表，五臟中嘅「肝」喺五行屬性上屬於邊個？
+<br />
 - A. 木
 - B. 火
 - C. 土
@@ -512,6 +539,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 28. 在五味與五行嘅配對中，屬於「火」行嘅味覺係咩？
+<br />
 - A. 酸（酦）
 - B. 苦
 - C. 甘
@@ -529,6 +557,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 29. 根據表格，五季中嘅「長夏」在五行中歸屬於邊個？
+<br />
 - A. 木
 - B. 火
 - C. 土
@@ -546,6 +575,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 30. 關於五官與五行嘅歸類，以下哪一組配對係正確嘅？
+<br />
 - A. 目 — 火
 - B. 舌 — 木
 - C. 鼻 — 金
@@ -563,6 +593,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 31. 當人感到「怒」這種情志（五志）時，佢喺五行上與邊個臟腑相關？
+<br />
 - A. 心（火）
 - B. 肝（木）
 - C. 肺（金）
@@ -580,6 +611,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 32. 根據表格資料，五液中嘅「涕」屬於邊個五行？
+<br />
 - A. 木
 - B. 火
 - C. 金
@@ -597,6 +629,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 33. 以下哪一組五華、五主與五臟嘅組合完全屬於「水」行？
+<br />
 - A. 五華：髮 / 五主：骨 / 五臟：腎
 - B. 五華：爪 / 五主：筋 / 五臟：肝
 - C. 五華：面 / 五主：脈 / 五臟：心
@@ -614,6 +647,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 34. 在五色當中，歸屬於「土」行嘅顏色係咩？
+<br />
 - A. 青
 - B. 赤
 - C. 黃
@@ -631,6 +665,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 35. 根據表格，五液中嘅「涎」同「唾」分別屬於邊兩個五行？
+<br />
 - A. 涎屬木，唾屬火
 - B. 涎屬土，唾屬水
 - C. 涎屬金，唾屬水
@@ -648,6 +683,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 36. 根據五行歸類表，五腑中嘅「大腸」與以下哪一組屬性屬於同一五行（金）？
+<br />
 - A. 辛味、白色、秋季、悲
 - B. 酸味、青色、春季、怒
 - C. 苦味、赤色、夏季、喜
@@ -665,6 +701,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 37. 根據文本對「五行制化」的解釋，以下哪一項正確描述咗「制」與「化」的意思？
+<br />
 - A. 制即化生，化即克制
 - B. 制即制約、剋制；化即化生、變化
 - C. 制即消亡，化即停滯
@@ -682,6 +719,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 38. 在五行相生的規律中，文本提到「阿火 生 阿土」，這體現了以下哪一種關係？
+<br />
 - A. 五行相生
 - B. 五行相剋
 - C. 五行相乘
@@ -699,6 +737,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 39. 根據文本資料中對五行相剋的舉例，以下哪一項符合文本內容？
+<br />
 - A. 阿木 尅 阿土
 - B. 阿水 尅 阿火
 - C. 阿金 尅 阿木
@@ -716,6 +755,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 40. 根據文本描述，肝因為具備「藏血」的功能，因此被比喻為以下哪一個概念？
+<br />
 - A. 水之源頭
 - B. 血之府庫（血庫）
 - C. 氣之海
@@ -733,6 +773,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 41. 關於「肝」在體表器官同埋情志、體液嘅對應關係，以下哪一項係正確嘅？
+<br />
 - A. 在體合骨，其華在髮
 - B. 開竅於耳，在志為恐
 - C. 在體合筋，其華在爪
@@ -750,6 +791,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 42. 根據文本，當一個人流眼淚（淚）或者發怒（怒）時，主要同邊個臟腑嘅生理功能相關？
+<br />
 - A. 心
 - B. 肝
 - C. 脾
@@ -767,6 +809,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 42. 根據文本，當一個人流眼淚（淚）或者發怒（怒）時，主要同邊個臟腑嘅生理功能相關？
+<br />
 - A. 心
 - B. 肝
 - C. 脾
@@ -784,6 +827,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 43. 根據文本，心具備「心藏神」嘅生理功能，當中嘅「神」主要指啲咩？
+<br />
 - A. 血液循環
 - B. 思維活動
 - C. 呼吸運動
@@ -801,6 +845,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 44. 在體表與器官嘅對應關係中，「心」在體、華與竅嘅表現分別係咩？
+<br />
 - A. 在體合筋，其華在爪，在竅為目
 - B. 在體合脈，其華在面，在竅為舌
 - C. 在體合肉，其華在毛，在竅為口
@@ -818,6 +863,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 45. 根據文本描述，以下哪一組情志（志）與體液（液）屬於「心」嘅生理範疇？
+<br />
 - A. 在志為怒，在液為淚
 - B. 在志為喜，在液為汗
 - C. 在志為思，在液為涎
@@ -835,6 +881,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 46. 關於「脾主升清」嘅生理功能，佢主要負責以下哪一種物質嘅運行輸佈？
+<br />
 - A. 血液與津液
 - B. 水穀精微
 - C. 營衛之氣
@@ -852,6 +899,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 47. 根據文本描述，以下哪一項屬於「脾」嘅主要生理功能？
+<br />
 - A. 肝主疏泄
 - B. 心主血脈
 - C. 脾主運化
@@ -869,6 +917,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 48. 根據文本，以下哪一項係「肺」最主要的生理功能之一？
+<br />
 - A. 藏血
 - B. 主氣、司呼吸
 - C. 主運化
@@ -886,6 +935,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 49. 在體表與器官嘅對應關係中，肺「在體」與「其華」分別對應咩？
+<br />
 - A. 在體合筋，其華在爪
 - B. 在體合脈，其華在面
 - C. 在體合皮，其華在毛
@@ -903,6 +953,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 50. 根據文本，「肺」開竅於邊個器官？
+<br />
 - A. 目
 - B. 舌
 - C. 口
@@ -920,6 +971,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 51. 在情志（志）與體液（液）的對應上，以下哪一組屬於「肺」？
+<br />
 - A. 在志為怒，在液為淚
 - B. 在志為喜，在液為汗
 - C. 在志為悲、憂，在液為涕
@@ -937,6 +989,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 52. 關於肺嘅「宣發」功能，以下哪一項**不屬於**宣發嘅四個範疇之一？
+<br />
 - A. 排出體內濁氣
 - B. 吸入自然界的清氣（空氣）
 - C. 將水穀津液輸佈全身達皮毛
@@ -954,6 +1007,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 53. 根據文本，肺嘅「宣發」作用可以將聚於肺嘅邊種物質重新輸佈全身？
+<br />
 - A. 血液
 - B. 尿液
 - C. 膽汁
@@ -971,6 +1025,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 54. 肺嘅「肅降」功能將津液向下、向內佈散，經過代謝後會形成咩？
+<br />
 - A. 汗液
 - B. 淚液
 - C. 尿液
@@ -988,6 +1043,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 55. 在肅降功能中，津液代謝成尿液嘅過程中，體現咗邊兩個臟腑之間嘅關係？
+<br />
 - A. 肺 -> 肝
 - B. 肺 -> 腎
 - C. 肺 -> 脾
@@ -1005,6 +1061,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 56. 根據文本對「肅降」功能嘅描述，以下哪一項屬於肅降嘅功能？
+<br />
 - A. 排出體內濁氣
 - B. 宣散衛氣控制汗液排出
 - C. 使全身的血液匯聚於肺，再向下輸佈
@@ -1022,6 +1079,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 57. 綜合文本內容，控制汗液排出主要係靠肺嘅邊一個功能？
+<br />
 - A. 肅降吸入清氣
 - B. 宣散衛氣
 - C. 肅降代謝尿液
@@ -1039,6 +1097,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 58. 根據文本，腎被稱為「先天之本」的主要原因係咩？
+<br />
 - A. 腎主水並調節津液
 - B. 腎內藏來源於父母生殖之精的「先天之精」
 - C. 腎能化生後天之精
@@ -1056,6 +1115,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 59. 在體表、器官與情志的對應關係中，以下哪一組**完全符合**「腎」的生理特徵？
+<br />
 - A. 在志為怒，開竅於目
 - B. 在志為喜，開竅於舌
 - C. 在志為恐，開竅於耳和二陰
@@ -1073,6 +1133,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 60. 關於腎所貯藏的「後天之精」，其主要來源係咩？
+<br />
 - A. 父母的生殖之精
 - B. 脾胃化生的水穀之精及臟腑代謝所化生的臟腑之精
 - C. 自然界吸入的清氣
@@ -1090,6 +1151,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 61. 根據文本，腎與骨骼、頭髮的關係係咩？
+<br />
 - A. 腎合皮，其華在毛
 - B. 腎生髓主骨，其華在髮
 - C. 腎合筋，其華在爪
@@ -1107,6 +1169,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 62. 根據文本描述，以下哪一種體液（液）屬於「腎」？
+<br />
 - A. 汗
 - B. 淚
 - C. 涕
@@ -1124,6 +1187,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 63. 根據相生關係傳變，「母病及子」嘅例子喺文本中係指以下哪一種情況？
+<br />
 - A. 心傳番比肝
 - B. 肝傳心
 - C. 肝蝦脾勁得滯
@@ -1141,6 +1205,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 64. 當出現「心傳番比肝」嘅情況時，喺相生關係傳變中屬於咩傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -1158,6 +1223,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 65. 關於相剋關係傳變，文本用「肝蝦脾勁得滯」嚟形容以下哪一種傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -1175,6 +1241,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 66. 文本中「肺比肝蝦番轉頭」係屬於以下哪一種相剋關係傳變？
+<br />
 - A. 相乘傳變
 - B. 相侮傳變
 - C. 母病及子
@@ -1192,6 +1259,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 67. 根據文本，以下哪一組傳變屬於「相剋關係傳變」？
+<br />
 - A. 母病及子、子病及母
 - B. 相乘傳變、相侮傳變
 - C. 肝傳心、心傳肝
@@ -1209,6 +1277,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 68. 當病人出現「面色赤、口味苦、脈象洪」嘅臨床表現時，根據文本可以診斷為以下哪一種證候？
+<br />
 - A. 肝膽濕熱
 - B. 心火亢盛
 - C. 肺熱津傷
@@ -1226,6 +1295,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 69. 根據文本，診斷為「心火亢盛」時，相應嘅脈象應該係咩？
+<br />
 - A. 脈象細
 - B. 脈象沉
 - C. 脈象洪
@@ -1243,6 +1313,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 70. 根據文本描述，心火亢盛病人在面色上會有咩表現？
+<br />
 - A. 面色青
 - B. 面色赤
 - C. 面色白
@@ -1260,6 +1331,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 71. 以下哪一項**不屬於**文本中提及診斷「心火亢盛」的臨床依據？
+<br />
 - A. 面色赤
 - B. 口味苦
 - C. 口味酸
@@ -1277,6 +1349,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 72. 根據文本，以下哪一種治法屬於「抑強扶弱法」的類別？
+<br />
 - A. 滋水涵木法
 - B. 培土生金法
 - C. 抑木扶土法
@@ -1294,6 +1367,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 73. 以下哪一組治法**全部**屬於「補母瀉子法」？
+<br />
 - A. 滋水涵木法、培土生金法、金水相生法
 - B. 培土制水法、佐金平木法、瀉南補北法
 - C. 抑木扶土法、培土生金法、益火補土法
@@ -1311,6 +1385,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 74. 根據文本資料，「瀉南補北法」喺治則治法中歸類為咩方法？
+<br />
 - A. 補母瀉子法
 - B. 抑強扶弱法
 - C. 八綱辨證法
@@ -1328,6 +1403,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 75. 關於表格中列出嘅治則治法，以下哪一項配對係**錯誤**嘅？
+<br />
 - A. 益火補土法 — 補母瀉子法
 - B. 佐金平木法 — 抑強扶弱法
 - C. 培土制水法 — 抑強扶弱法
@@ -1346,6 +1422,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 62. 根據文本描述，以下哪一種體液（液）屬於「腎」？
+<br />
 - A. 汗
 - B. 淚
 - C. 涕
@@ -1363,6 +1440,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 63. 根據相生關係傳變，「母病及子」嘅例子喺文本中係指以下哪一種情況？
+<br />
 - A. 心傳番比肝
 - B. 肝傳心
 - C. 肝蝦脾勁得滯
@@ -1380,6 +1458,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 64. 當出現「心傳番比肝」嘅情況時，喺相生關係傳變中屬於咩傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -1397,6 +1476,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 65. 關於相剋關係傳變，文本用「肝蝦脾勁得滯」嚟形容以下哪一種傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -1414,6 +1494,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 66. 文本中「肺比肝蝦番轉頭」係屬於以下哪一種相剋關係傳變？
+<br />
 - A. 相乘傳變
 - B. 相侮傳變
 - C. 母病及子
@@ -1431,6 +1512,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 67. 根據文本，以下哪一組傳變屬於「相剋關係傳變」？
+<br />
 - A. 母病及子、子病及母
 - B. 相乘傳變、相侮傳變
 - C. 肝傳心、心傳肝
@@ -1448,6 +1530,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 68. 當病人出現「面色赤、口味苦、脈象洪」嘅臨床表現時，根據文本可以診斷為以下哪一種證候？
+<br />
 - A. 肝膽濕熱
 - B. 心火亢盛
 - C. 肺熱津傷
@@ -1465,6 +1548,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 69. 根據文本，診斷為「心火亢盛」時，相應嘅脈象應該係咩？
+<br />
 - A. 脈象細
 - B. 脈象沉
 - C. 脈象洪
@@ -1482,6 +1566,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 70. 根據文本描述，心火亢盛病人在面色上會有咩表現？
+<br />
 - A. 面色青
 - B. 面色赤
 - C. 面色白
@@ -1499,6 +1584,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 71. 以下哪一項**不屬於**文本中提及診斷「心火亢盛」的臨床依據？
+<br />
 - A. 面色赤
 - B. 口味苦
 - C. 口味酸
@@ -1516,6 +1602,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 72. 根據文本，以下哪一種治法屬於「抑強扶弱法」的類別？
+<br />
 - A. 滋水涵木法
 - B. 培土生金法
 - C. 抑木扶土法
@@ -1533,6 +1620,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 73. 以下哪一組治法**全部**屬於「補母瀉子法」？
+<br />
 - A. 滋水涵木法、培土生金法、金水相生法
 - B. 培土制水法、佐金平木法、瀉南補北法
 - C. 抑木扶土法、培土生金法、益火補土法
@@ -1550,6 +1638,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 74. 根據文本資料，「瀉南補北法」喺治則治法中歸類為咩方法？
+<br />
 - A. 補母瀉子法
 - B. 抑強扶弱法
 - C. 八綱辨證法
@@ -1567,6 +1656,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 75. 關於表格中列出嘅治則治法，以下哪一項配對係**錯誤**嘅？
+<br />
 - A. 益火補土法 — 補母瀉子法
 - B. 佐金平木法 — 抑強扶弱法
 - C. 培土制水法 — 抑強扶弱法
@@ -1584,6 +1674,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 76. 中醫治則中，「補母」主要適用於以下哪一種病證？
+<br />
 - A. 母子關係的臟病實症
 - B. 母子關係的臟病虛症
 - C. 相剋關係的臟病實症
@@ -1601,6 +1692,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 77. 根據文本提及嘅「虛者補其母」原則，當出現「肝陰不足」時，應該採用以下哪一種治療方法？
+<br />
 - A. 補心陰
 - B. 補脾陰
 - C. 補腎陰
@@ -1618,6 +1710,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 78. 中醫治則中，「瀉子」主要適用於以下哪一種病證？
+<br />
 - A. 母子關係的臟病虛症
 - B. 母子關係的臟病實症
 - C. 相剋關係的臟病虛症
@@ -1635,6 +1728,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 79. 根據文本提及嘅「實者瀉其子」原則，當出現「肝火旺」時，可以採用以下哪一種治療方法？
+<br />
 - A. 瀉腎火
 - B. 瀉肺火
 - C. 瀉心火
@@ -1652,6 +1746,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 80. 根據文本描述，「抑強」這種治則主要適用於以下哪兩種情況？
+<br />
 - A. 相生太過同相生不及
 - B. 克制太過引起的相乘和相侮
 - C. 母子關係的虛症和實症
@@ -1668,7 +1763,9 @@ let FLASHCARDS = [
         [
                 `
 <div style="text-align: left">
-81. 當出現「肝氣太旺，橫逆犯脾」導致肝脾不調時，文本將這種病理現象稱為咩？相應嘅治療方法係咩？
+81. 當出現「肝氣太旺，橫逆犯脾」導致肝脾不調時，文本將這種病理現象稱為咩？
+<br />相應嘅治療方法係咩？
+<br />
 - A. 稱為「脾土侮肝木」，治療以運脾化濕為主
 - B. 稱為「肝木乘脾土」，治療以疏肝平肝為主
 - C. 稱為「肝木生脾土」，治療以補脾健脾為主
@@ -1686,6 +1783,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 82. 當「脾土壅滯，濕濁蘊脾犯肝」引致肝脾不調時，文本稱為「脾土侮肝木」，此時應該採用以下哪一種治療方法？
+<br />
 - A. 疏肝平肝為主
 - B. 補腎固精為主
 - C. 運脾化濕為主
@@ -1703,6 +1801,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 83. 中醫治則中，「扶弱」主要適用於以下哪一種病態所引致嘅相乘和相侮？
+<br />
 - A. 克制太過
 - B. 克制不及
 - C. 相生太過
@@ -1719,7 +1818,9 @@ let FLASHCARDS = [
         [
                 `
 <div style="text-align: left">
-84. 當出現「脾氣虛弱，肝氣乘虛而入」嘅肝脾不和之症時，文本將呢種現象稱為咩？應如何治療？
+84. 當出現「脾氣虛弱，肝氣乘虛而入」嘅肝脾不和之症時，文本將呢種現象稱為咩？
+<br />應如何治療？
+<br />
 - A. 稱為「脾虛肝乘」，以健脾益氣為主
 - B. 稱為「肝木乘脾土」，以疏肝平肝為主
 - C. 稱為「脾虛水侮」，以健脾利水為主
@@ -1737,6 +1838,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 85. 根據文本，當「脾氣虛弱，不能制水」而出現水濕泛濫時，被稱為「脾虛水侮」，相應嘅治療原則係咩？
+<br />
 - A. 疏肝理氣為主
 - B. 瀉心火為主
 - C. 健脾利水為主
@@ -1754,6 +1856,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 86. 根據文本，經絡系統嘅主體「十二經脈」又稱為咩？
+<br />
 - A. 奇經
 - B. 正經
 - C. 經別
@@ -1771,6 +1874,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 87. 以下哪一條經脈屬於「手三陰經」？
+<br />
 - A. 大腸
 - B. 肺
 - C. 胃
@@ -1788,6 +1892,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 88. 「小腸經」喺十二經脈嘅命名分類中屬於以下哪一類？
+<br />
 - A. 手三陰經
 - B. 手三陽經
 - C. 足三陽經
@@ -1805,6 +1910,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 89. 根據文本，「膀胱經」歸類為以下哪一種經脈？
+<br />
 - A. 足三陽經
 - B. 足三陰經
 - C. 手三陽經
@@ -1822,6 +1928,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 90. 以下哪一個臟腑嘅經脈屬於「足三陰經」？
+<br />
 - A. 三焦
 - B. 膽
 - C. 肝
@@ -1839,6 +1946,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 91. 綜合文本內容，以下哪一組臟腑經脈**全部**屬於陽經（手三陽或足三陽）？
+<br />
 - A. 肺、心、心包
 - B. 大腸、胃、膽
 - C. 脾、腎、肝
@@ -1856,6 +1964,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 92. 根據文本，手太陰肺經與哪一條經脈互為表裡？
+<br />
 - A. 手陽明大腸經
 - B. 足陽明胃經
 - C. 手少陽三焦經
@@ -1873,6 +1982,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 93. 根據文本，與足太陰脾經相表裡嘅係哪一條經脈？
+<br />
 - A. 足少陰腎經
 - B. 足陽明胃經
 - C. 足厥陰肝經
@@ -1890,6 +2000,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 94. 喺十二經脈表裡配屬中，手少陰心經與以下哪一條經脈互為表裡？
+<br />
 - A. 手少陽三焦經
 - B. 手陽明大腸經
 - C. 手太陽小腸經
@@ -1907,6 +2018,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 95. 根據文本，足少陰腎經相表裡嘅經脈係咩？
+<br />
 - A. 足陽明胃經
 - B. 足少陽膽經
 - C. 足厥陰肝經
@@ -1924,6 +2036,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 96. 手厥陰心包經喺表裡關係中對應以下哪一條經脈？
+<br />
 - A. 手少陽三焦經
 - B. 手太陽小腸經
 - C. 手陽明大腸經
@@ -1941,6 +2054,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 97. 根據文本，足厥陰肝經與哪一條經脈相表裡？
+<br />
 - A. 足陽明胃經
 - B. 足少陽膽經
 - C. 足太陽膀胱經
@@ -1958,6 +2072,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 98. 根據文本，奇經八脈之所以被稱為「奇經」，主要原因係咩？
+<br />
 - A. 因為它們長度比十二正經更長
 - B. 因為它們既不直屬臟腑，也無表裏配偶
 - C. 因為它們只在頭面部循行
@@ -1975,6 +2090,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 99. 奇經八脈係由八條經脈總稱而成，以下哪一條經脈**不屬於**奇經八脈？
+<br />
 - A. 帶脈
 - B. 沖脈
 - C. 陽明脈
@@ -1992,6 +2108,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 100. 根據文本，被稱為「陰脈之海」嘅經脈係咩？
+<br />
 - A. 督脈
 - B. 任脈
 - C. 沖脈
@@ -2009,6 +2126,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 101. 根據文本，督脈主要循行於人體嘅邊個部位？
+<br />
 - A. 胸腹正中
 - B. 下肢外側
 - C. 腰背正中
@@ -2026,6 +2144,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 102. 關於任脈嘅生理功能與循行，以下哪一項描述係正確嘅？
+<br />
 - A. 循行於腰背正中，調節諸陽經經氣
 - B. 循行於胸腹正中，具有調節諸陰經經氣的作用
 - C. 橫行繞腰一圈，約束諸經
@@ -2043,6 +2162,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 103. 根據文本，具有「調節諸陽經經氣」作用、被稱為「陽脈之海」嘅經脈係咩？
+<br />
 - A. 任脈
 - B. 督脈
 - C. 陽維脈
@@ -2060,6 +2180,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 104. 中醫常說嘅「一源三歧」係指哪三條經脈皆源於胞中、同出於會陰？
+<br />
 - A. 任脈、督脈、帶脈
 - B. 任脈、督脈、沖脈
 - C. 沖脈、帶脈、陰矯脈
@@ -2077,6 +2198,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 62. 根據文本描述，以下哪一種體液（液）屬於「腎」？
+<br />
 - A. 汗
 - B. 淚
 - C. 涕
@@ -2094,6 +2216,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 63. 根據相生關係傳變，「母病及子」嘅例子喺文本中係指以下哪一種情況？
+<br />
 - A. 心傳番比肝
 - B. 肝傳心
 - C. 肝蝦脾勁得滯
@@ -2111,6 +2234,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 64. 當出現「心傳番比肝」嘅情況時，喺相生關係傳變中屬於咩傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -2128,6 +2252,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 65. 關於相剋關係傳變，文本用「肝蝦脾勁得滯」嚟形容以下哪一種傳變？
+<br />
 - A. 母病及子
 - B. 子病及母
 - C. 相乘傳變
@@ -2145,6 +2270,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 66. 文本中「肺比肝蝦番轉頭」係屬於以下哪一種相剋關係傳變？
+<br />
 - A. 相乘傳變
 - B. 相侮傳變
 - C. 母病及子
@@ -2162,6 +2288,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 67. 根據文本，以下哪一組傳變屬於「相剋關係傳變」？
+<br />
 - A. 母病及子、子病及母
 - B. 相乘傳變、相侮傳變
 - C. 肝傳心、心傳肝
@@ -2179,6 +2306,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 68. 當病人出現「面色赤、口味苦、脈象洪」嘅臨床表現時，根據文本可以診斷為以下哪一種證候？
+<br />
 - A. 肝膽濕熱
 - B. 心火亢盛
 - C. 肺熱津傷
@@ -2196,6 +2324,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 69. 根據文本，診斷為「心火亢盛」時，相應嘅脈象應該係咩？
+<br />
 - A. 脈象細
 - B. 脈象沉
 - C. 脈象洪
@@ -2213,6 +2342,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 70. 根據文本描述，心火亢盛病人在面色上會有咩表現？
+<br />
 - A. 面色青
 - B. 面色赤
 - C. 面色白
@@ -2230,6 +2360,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 71. 以下哪一項**不屬於**文本中提及診斷「心火亢盛」的臨床依據？
+<br />
 - A. 面色赤
 - B. 口味苦
 - C. 口味酸
@@ -2247,6 +2378,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 72. 根據文本，以下哪一種治法屬於「抑強扶弱法」的類別？
+<br />
 - A. 滋水涵木法
 - B. 培土生金法
 - C. 抑木扶土法
@@ -2264,6 +2396,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 73. 以下哪一組治法**全部**屬於「補母瀉子法」？
+<br />
 - A. 滋水涵木法、培土生金法、金水相生法
 - B. 培土制水法、佐金平木法、瀉南補北法
 - C. 抑木扶土法、培土生金法、益火補土法
@@ -2281,6 +2414,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 74. 根據文本資料，「瀉南補北法」喺治則治法中歸類為咩方法？
+<br />
 - A. 補母瀉子法
 - B. 抑強扶弱法
 - C. 八綱辨證法
@@ -2298,6 +2432,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 75. 關於表格中列出嘅治則治法，以下哪一項配對係**錯誤**嘅？
+<br />
 - A. 益火補土法 — 補母瀉子法
 - B. 佐金平木法 — 抑強扶弱法
 - C. 培土制水法 — 抑強扶弱法
@@ -2315,6 +2450,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 76. 中醫治則中，「補母」主要適用於以下哪一種病證？
+<br />
 - A. 母子關係的臟病實症
 - B. 母子關係的臟病虛症
 - C. 相剋關係的臟病實症
@@ -2332,6 +2468,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 77. 根據文本提及嘅「虛者補其母」原則，當出現「肝陰不足」時，應該採用以下哪一種治療方法？
+<br />
 - A. 補心陰
 - B. 補脾陰
 - C. 補腎陰
@@ -2349,6 +2486,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 78. 中醫治則中，「瀉子」主要適用於以下哪一種病證？
+<br />
 - A. 母子關係的臟病虛症
 - B. 母子關係的臟病實症
 - C. 相剋關係的臟病虛症
@@ -2366,6 +2504,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 79. 根據文本提及嘅「實者瀉其子」原則，當出現「肝火旺」時，可以採用以下哪一種治療方法？
+<br />
 - A. 瀉腎火
 - B. 瀉肺火
 - C. 瀉心火
@@ -2383,6 +2522,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 80. 根據文本描述，「抑強」這種治則主要適用於以下哪兩種情況？
+<br />
 - A. 相生太過同相生不及
 - B. 克制太過引起的相乘和相侮
 - C. 母子關係的虛症和實症
@@ -2399,7 +2539,9 @@ let FLASHCARDS = [
         [
                 `
 <div style="text-align: left">
-81. 當出現「肝氣太旺，橫逆犯脾」導致肝脾不調時，文本將這種病理現象稱為咩？相應嘅治療方法係咩？
+81. 當出現「肝氣太旺，橫逆犯脾」導致肝脾不調時，文本將這種病理現象稱為咩？
+<br />相應嘅治療方法係咩？
+<br />
 - A. 稱為「脾土侮肝木」，治療以運脾化濕為主
 - B. 稱為「肝木乘脾土」，治療以疏肝平肝為主
 - C. 稱為「肝木生脾土」，治療以補脾健脾為主
@@ -2417,6 +2559,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 82. 當「脾土壅滯，濕濁蘊脾犯肝」引致肝脾不調時，文本稱為「脾土侮肝木」，此時應該採用以下哪一種治療方法？
+<br />
 - A. 疏肝平肝為主
 - B. 補腎固精為主
 - C. 運脾化濕為主
@@ -2434,6 +2577,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 83. 中醫治則中，「扶弱」主要適用於以下哪一種病態所引致嘅相乘和相侮？
+<br />
 - A. 克制太過
 - B. 克制不及
 - C. 相生太過
@@ -2450,7 +2594,9 @@ let FLASHCARDS = [
         [
                 `
 <div style="text-align: left">
-84. 當出現「脾氣虛弱，肝氣乘虛而入」嘅肝脾不和之症時，文本將呢種現象稱為咩？應如何治療？
+84. 當出現「脾氣虛弱，肝氣乘虛而入」嘅肝脾不和之症時，文本將呢種現象稱為咩？
+<br />應如何治療？
+<br />
 - A. 稱為「脾虛肝乘」，以健脾益氣為主
 - B. 稱為「肝木乘脾土」，以疏肝平肝為主
 - C. 稱為「脾虛水侮」，以健脾利水為主
@@ -2468,6 +2614,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 85. 根據文本，當「脾氣虛弱，不能制水」而出現水濕泛濫時，被稱為「脾虛水侮」，相應嘅治療原則係咩？
+<br />
 - A. 疏肝理氣為主
 - B. 瀉心火為主
 - C. 健脾利水為主
@@ -2485,6 +2632,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 86. 根據文本，經絡系統嘅主體「十二經脈」又稱為咩？
+<br />
 - A. 奇經
 - B. 正經
 - C. 經別
@@ -2502,6 +2650,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 87. 以下哪一條經脈屬於「手三陰經」？
+<br />
 - A. 大腸
 - B. 肺
 - C. 胃
@@ -2519,6 +2668,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 88. 「小腸經」喺十二經脈嘅命名分類中屬於以下哪一類？
+<br />
 - A. 手三陰經
 - B. 手三陽經
 - C. 足三陽經
@@ -2536,6 +2686,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 89. 根據文本，「膀胱經」歸類為以下哪一種經脈？
+<br />
 - A. 足三陽經
 - B. 足三陰經
 - C. 手三陽經
@@ -2553,6 +2704,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 90. 以下哪一個臟腑嘅經脈屬於「足三陰經」？
+<br />
 - A. 三焦
 - B. 膽
 - C. 肝
@@ -2570,6 +2722,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 91. 綜合文本內容，以下哪一組臟腑經脈**全部**屬於陽經（手三陽或足三陽）？
+<br />
 - A. 肺、心、心包
 - B. 大腸、胃、膽
 - C. 脾、腎、肝
@@ -2587,6 +2740,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 92. 根據文本，手太陰肺經與哪一條經脈互為表裡？
+<br />
 - A. 手陽明大腸經
 - B. 足陽明胃經
 - C. 手少陽三焦經
@@ -2604,6 +2758,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 93. 根據文本，與足太陰脾經相表裡嘅係哪一條經脈？
+<br />
 - A. 足少陰腎經
 - B. 足陽明胃經
 - C. 足厥陰肝經
@@ -2621,6 +2776,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 94. 喺十二經脈表裡配屬中，手少陰心經與以下哪一條經脈互為表裡？
+<br />
 - A. 手少陽三焦經
 - B. 手陽明大腸經
 - C. 手太陽小腸經
@@ -2638,6 +2794,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 95. 根據文本，足少陰腎經相表裡嘅經脈係咩？
+<br />
 - A. 足陽明胃經
 - B. 足少陽膽經
 - C. 足厥陰肝經
@@ -2655,6 +2812,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 96. 手厥陰心包經喺表裡關係中對應以下哪一條經脈？
+<br />
 - A. 手少陽三焦經
 - B. 手太陽小腸經
 - C. 手陽明大腸經
@@ -2672,6 +2830,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 97. 根據文本，足厥陰肝經與哪一條經脈相表裡？
+<br />
 - A. 足陽明胃經
 - B. 足少陽膽經
 - C. 足太陽膀胱經
@@ -2689,6 +2848,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 98. 根據文本，奇經八脈之所以被稱為「奇經」，主要原因係咩？
+<br />
 - A. 因為它們長度比十二正經更長
 - B. 因為它們既不直屬臟腑，也無表裏配偶
 - C. 因為它們只在頭面部循行
@@ -2706,6 +2866,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 99. 奇經八脈係由八條經脈總稱而成，以下哪一條經脈**不屬於**奇經八脈？
+<br />
 - A. 帶脈
 - B. 沖脈
 - C. 陽明脈
@@ -2723,6 +2884,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 100. 根據文本，被稱為「陰脈之海」嘅經脈係咩？
+<br />
 - A. 督脈
 - B. 任脈
 - C. 沖脈
@@ -2740,6 +2902,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 101. 根據文本，督脈主要循行於人體嘅邊個部位？
+<br />
 - A. 胸腹正中
 - B. 下肢外側
 - C. 腰背正中
@@ -2757,6 +2920,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 102. 關於任脈嘅生理功能與循行，以下哪一項描述係正確嘅？
+<br />
 - A. 循行於腰背正中，調節諸陽經經氣
 - B. 循行於胸腹正中，具有調節諸陰經經氣的作用
 - C. 橫行繞腰一圈，約束諸經
@@ -2774,6 +2938,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 103. 根據文本，具有「調節諸陽經經氣」作用、被稱為「陽脈之海」嘅經脈係咩？
+<br />
 - A. 任脈
 - B. 督脈
 - C. 陽維脈
@@ -2791,6 +2956,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 104. 中醫常說嘅「一源三歧」係指哪三條經脈皆源於胞中、同出於會陰？
+<br />
 - A. 任脈、督脈、帶脈
 - B. 任脈、督脈、沖脈
 - C. 沖脈、帶脈、陰矯脈
@@ -2808,6 +2974,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 105. 根據文本描述，任脈與督脈在循行起點上有咩共同特徵？
+<br />
 - A. 上抵頦部
 - B. 上至頭面
 - C. 下出於會陰
@@ -2825,6 +2992,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 106. 中醫診察疾病嘅「四診」係指以下哪一組方法？
+<br />
 - A. 望、聞、問、切
 - B. 陰、陽、表、裏
 - C. 寒、熱、虛、實
@@ -2842,6 +3010,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 107. 根據文本，中醫診斷學中「審察內外」原則嘅核心出發點係咩？
+<br />
 - A. 四診合參同八綱辨證
 - B. 人體是一個整體、人與天地相應
 - C. 專注局部病變與個體差異
@@ -2859,6 +3028,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 108. 根據文本描述，疾病係喺咩情況下產生？
+<br />
 - A. 人體生理功能完全對自然界變化適應時
 - B. 只要自然界發生任何變化就會產生
 - C. 人體整體內在失調且對自然界變化超過限度、無法維持正常生理功能時
@@ -2876,6 +3046,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 109. 貫徹「審察內外」原則時，喺認識疾病嘅過程中**切忌**以下哪一種做法？
+<br />
 - A. 將人體視為一個整體
 - B. 考慮人與自然界嘅相應關係
 - C. 只見到局部或只注意個人
@@ -2893,6 +3064,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 110. 關於人體與自然界變化嘅關係，文本提出咗咩觀點？
+<br />
 - A. 人體完全無法適應自然界嘅任何變化
 - B. 人體生理功能對自然界一般的變化是能夠相適應的
 - C. 自然界變化必然會直接導致人體內在失調
@@ -2910,6 +3082,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 111. 文本中提到「審察內外」係中醫診斷學嘅一項重要原則，佢強調診斷時應該如何看待人體？
+<br />
 - A. 將人體視為獨立於自然界之外嘅單一器官組合
 - B. 僅從個人局部器官嘅病理改變進行分析
 - C. 將人體視為一個整體，並結合與天地相應嘅內外環境進行綜合考察
@@ -2927,6 +3100,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 112. 根據文本，望診嘅主要內容係觀察人體嘅邊四個方面？
+<br />
 - A. 汗、吐、下、和
 - B. 寒、熱、虛、實
 - C. 神、色、形、態
@@ -2944,6 +3118,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 113. 望診通過觀察外在表現嚟推斷體內變化，呢個臨床意義喺文本中點樣描述？
+<br />
 - A. 觀察人體的 神、色、形、態，以推斷體內的變化
 - B. 直接觀察臟腑結構嘅型態改變
 - C. 專門測量脈象嘅動態變化
@@ -2961,6 +3136,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 114. 根據文本，判斷一個人喺望診上出現「病態」嘅依據係咩？
+<br />
 - A. 脈象出現沉細
 - B. 神、色、形、態 一有反常
 - C. 口味出現苦味
@@ -2978,6 +3154,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 115. 關於望診嘅描述，以下哪一項完全符合文本內容？
+<br />
 - A. 健康人嘅神、色、形、態沒有固定表現
 - B. 望診只能觀察面部顏色，無法推斷體內變化
 - C. 望診主要透過詢問患者嚟推斷體內變化
@@ -2995,6 +3172,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 116. 根據文本，舌苔顏色呈現「灰苔」主要主咩證？
+<br />
 - A. 主表證，也見寒證
 - B. 主裏證，也見濕證
 - C. 主半表半裏證，也見熱證
@@ -3012,6 +3190,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 117. 關於正常舌象嘅舌面潤燥程度，文本中點樣描述？
+<br />
 - A. 望之乾枯，無津
 - B. 濕而滑利，涎流欲滴
 - C. 舌面潤澤，是乾濕適中的正常舌象
@@ -3029,6 +3208,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 118. 當舌面水分過多，濕而滑利，甚至伸舌時涎流欲滴，喺苔質上稱為咩？
+<br />
 - A. 燥苔
 - B. 糙苔
 - C. 滑苔
@@ -3046,6 +3226,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 119. 根據文本描述，如果舌苔「顆粒粗糙如砂石，捫之手」，呢種苔質被稱為咩？
+<br />
 - A. 燥苔
 - B. 糙苔
 - C. 潤苔
@@ -3063,6 +3244,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 120. 關於「燥苔」與「燥裂苔」嘅特徵，以下哪一項描述符合文本？
+<br />
 - A. 望之乾枯、無津稱為「燥苔」；若質地皮硬、乾燥裂紋稱為「燥裂苔」
 - B. 水分過多稱為「燥苔」；質地皮硬稱為「燥裂苔」
 - C. 顆粒粗糙如砂石稱為「燥苔」；無津稱為「燥裂苔」
@@ -3080,6 +3262,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 121. 當表證出現「無汗」，兼見惡寒重、發熱輕、頭項強痛、脈浮緊時，屬於以下哪一種證候？
+<br />
 - A. 表虛證（太陽中風證）
 - B. 表寒證（表實證）
 - C. 陰虛盜汗證
@@ -3097,6 +3280,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 122. 表證出現「有汗」，兼見發熱惡風、脈浮緩，係外感風邪所致嘅咩證候？
+<br />
 - A. 太陽中風證（表虛證）
 - B. 表寒證（表實證）
 - C. 陽虛自汗證
@@ -3114,6 +3298,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 123. 患者喺日間汗出、活動之後情況更嚴重，同時伴隨畏寒、神疲乏力，呢種「自汗」屬於咩體質/病證？
+<br />
 - A. 陰虛
 - B. 陽虛
 - C. 表寒
@@ -3131,6 +3316,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 124. 關於「盜汗」嘅臨床特徵同證型，以下哪一項完全符合文本內容？
+<br />
 - A. 日間汗出，活動尤甚，屬陽虛
 - B. 睡時汗出，醒則汗止，屬陰虛
 - C. 睡時汗出，兼見發熱惡風，屬表虛
@@ -3148,6 +3334,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 125. 當患者出現睡時汗出、醒時汗止，兼見「潮熱、顴紅」等症狀時，主要病機係咩？
+<br />
 - A. 外感風邪
 - B. 外感寒邪
 - C. 陽虛
@@ -3165,6 +3352,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 126. 當患者出現胸部脹痛走竄、喜太息（歎氣）、易怒時，主要屬於咩病因/病機引致？
+<br />
 - A. 血瘀為病
 - B. 氣滯為病
 - C. 陽虛為病
@@ -3182,6 +3370,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 127. 胸部出現脹痛走竄同太息易怒嘅現象，文本解釋係因為咩原因所致？
+<br />
 - A. 外感寒邪，經脈凝滯
 - B. 胃腑血瘀，絡脈不通
 - C. 情志鬱結不舒，胸中氣機不利
@@ -3199,6 +3388,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 128. 患者胃脘部出現「刺痛，且痛有定處」，喺病證上屬於以下哪一種？
+<br />
 - A. 胃腑血瘀
 - B. 胃腑氣滯
 - C. 胃寒凝滯
@@ -3216,6 +3406,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 129. 關於胸脅部位痛症嘅特徵，以下哪一項描述符合氣滯嘅表現？
+<br />
 - A. 痛如針刺，位置固定不移
 - B. 痛勢隱隱，喜按喜溫
 - C. 脹痛且疼痛位置走竄不固定
@@ -3233,6 +3424,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 130. 綜合問胸脅與問胃脘嘅內容，以下哪一組症狀與病機嘅對應係正確嘅？
+<br />
 - A. 胸脹痛走竄、太息易怒 —— 胃腑血瘀
 - B. 胃脘刺痛、痛有定處 —— 胃腑血瘀
 - C. 胸脹痛走竄 —— 外感寒邪
@@ -3250,6 +3442,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 131. 根據文本，浮脈主要主邊兩類病證？
+<br />
 - A. 表證、虛證
 - B. 裏證、實證
 - C. 寒證、熱證
@@ -3267,6 +3460,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 132. 當患者出現「肝膽病」時，切診中最常見嘅脈象係咩？
+<br />
 - A. 浮脈
 - B. 弦脈
 - C. 沉脈
@@ -3284,6 +3478,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 133. 根據文本，以下哪一項**不屬於**弦脈嘅主病範圍？
+<br />
 - A. 痰飲
 - B. 痛證
 - C. 表證
@@ -3301,6 +3496,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 134. 患者出現「痛證」時，喺切診中通常會見到以下哪一種脈象？
+<br />
 - A. 浮脈
 - B. 弦脈
 - C. 虛脈
@@ -3318,6 +3514,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 135. 關於「浮脈」嘅臨床意義，以下哪一項描述完全符合文本？
+<br />
 - A. 主肝膽病與瘧疾
 - B. 主表證同埋虛證
 - C. 主痰飲同埋痛證
@@ -3335,6 +3532,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 136. 診得「弦脈」時，除了肝膽病同痛證之外，文本還提及可以見於以下哪兩種情況？
+<br />
 - A. 表證、虛證
 - B. 痰飲、瘧疾
 - C. 水腫、自汗
@@ -3352,6 +3550,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 137. 若患者診斷患有「瘧疾」，根據文本，其脈象多見以下哪一種？
+<br />
 - A. 浮脈
 - B. 弦脈
 - C. 滑脈
@@ -3369,6 +3568,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 138. 綜合文本內容，以下關於脈象與主病嘅對應，哪一組係正確嘅？
+<br />
 - A. 浮脈 —— 肝膽病、痛證
 - B. 弦脈 —— 表證、虛證
 - C. 浮脈 —— 痰飲、瘧疾
@@ -3386,6 +3586,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 139. 根據文本，方劑係祖國醫學中哪四個要素嘅重要組成部分？
+<br />
 - A. 汗、吐、下、和
 - B. 理、法、方、藥
 - C. 寒、熱、虛、實
@@ -3403,6 +3604,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 140. 中醫進行「辨證論治」嘅全部過程，係由以下哪一項組合而成？
+<br />
 - A. 望、聞、問、切
 - B. 神、色、形、態
 - C. 理、法、方、藥
@@ -3420,6 +3622,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 141. 根據文本，中醫治病嘅第一步首先係要做咩？
+<br />
 - A. 論治
 - B. 辨證
 - C. 開方
@@ -3437,6 +3640,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 142. 根據文本描述，「辨證」係根據疾病所表現嘅咩進行分析與辨別？
+<br />
 - A. 舌象與脈象
 - B. 症狀與體徵
 - C. 證候
@@ -3454,6 +3658,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 143. 喺「辨證」嘅過程中，醫生需要分析與辨別疾病當前階段嘅邊四個要素？
+<br />
 - A. 病因、病機、病性、病位
 - B. 病因、病理、病變、病程
 - C. 寒熱、虛實、表裏、陰陽
@@ -3471,6 +3676,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 144. 關於「辨證」與「論治」嘅先後次序同關係，以下哪一項描述符合文本？
+<br />
 - A. 先論治後辨證，論治係辨證嘅前提
 - B. 辨證同論治可以同時獨立進行，互不影響
 - C. 先辨證分析疾病嘅病因病機等，然後才能論治
@@ -3488,6 +3694,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 145. 喺方劑學分類中，「麻黃湯」屬於以下哪一類解表劑？
+<br />
 - A. 辛涼解表
 - B. 辛溫解表
 - C. 扶正解表
@@ -3505,6 +3712,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 146. 根據文本，以下哪一味中藥係「麻黃湯」嘅組成成分之一，且喺入藥時需要「打碎」？
+<br />
 - A. 麻黃
 - B. 桂枝
 - C. 杏仁
@@ -3522,6 +3730,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 147. 以下哪一組中藥完全符合文本所列嘅「麻黃湯」組成成分？
+<br />
 - A. 麻黃、桂枝、石膏、甘草
 - B. 麻黃、杏仁、石膏、甘草
 - C. 麻黃、桂枝、杏仁(打碎)、炙甘草
@@ -3539,6 +3748,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 148. 關於麻黃湯中甘草嘅炮製要求，文本中特別標明要使用以下哪一種？
+<br />
 - A. 生甘草
 - B. 炙甘草
 - C. 甘草梢
@@ -3556,6 +3766,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 149. 喺方劑學分類中，「銀翹散」屬於以下哪一類解表劑？
+<br />
 - A. 辛溫解表
 - B. 辛涼解表
 - C. 扶正解表
@@ -3573,6 +3784,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 150. 根據文本，銀翹散主要用於治療以下哪一種病證？
+<br />
 - A. 外感風寒
 - B. 外感風熱
 - C. 外感暑濕
@@ -3590,6 +3802,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 151. 喺方劑學分類中，「四君子湯」屬於以下哪一類劑型/功效類別？
+<br />
 - A. 補血劑
 - B. 補氣劑
 - C. 補陰劑
@@ -3607,6 +3820,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 152. 根據文本，四君子湯中嘅「人參」喺入藥處理時有咩特別要求？
+<br />
 - A. 打碎
 - B. 去皮
 - C. 去蘆
@@ -3624,6 +3838,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 153. 根據文本，四君子湯中嘅「茯苓」需要經過以下哪一種處理？
+<br />
 - A. 去皮
 - B. 去蘆
 - C. 打碎
@@ -3641,6 +3856,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 154. 根據文本分類，「六味地黃丸」歸類於以下哪一種功效類別？
+<br />
 - A. 補氣
 - B. 補血
 - C. 補陽
@@ -3658,6 +3874,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 155. 根據文本，六味地黃丸中嘅「地黃」係使用以下哪一種？
+<br />
 - A. 生地黃
 - B. 熟地黃
 - C. 乾地黃
@@ -3675,6 +3892,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 156. 根據文本，六味地黃丸中嘅「山藥」係以咩形式入藥？
+<br />
 - A. 鮮山藥
 - B. 炒山藥
 - C. 乾山藥
@@ -3692,6 +3910,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 157. 根據文本，六味地黃丸中嘅「茯苓」喺入藥處理時有咩特別要求？
+<br />
 - A. 去蘆
 - B. 打碎
 - C. 去皮
@@ -3709,6 +3928,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 158. 以下哪一味中藥**不屬於**文本中六味地黃丸嘅六味組成成分之一？
+<br />
 - A. 山萸肉
 - B. 牡丹皮
 - C. 澤瀉
@@ -3726,6 +3946,7 @@ let FLASHCARDS = [
                 `
 <div style="text-align: left">
 159. 以下哪一組中藥及其處理要求，完全符合文本所列嘅「六味地黃丸」組成？
+<br />
 - A. 熟地黃、山萸肉、乾山藥、澤瀉、牡丹皮、茯苓(去皮)
 - B. 生地黃、山藥、茯苓、澤瀉、丹參、麥冬
 - C. 熟地黃、山茱萸、淮山、澤瀉、赤芍、茯苓
