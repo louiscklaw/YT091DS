@@ -19,7 +19,7 @@
     let JUSTIFICATION = "center"; // "left", "right", or "center"
 
     // Option 1: Array of arrays format
-    // herbs_recognition.html
+    // FLASHCARDS defined in herbs_recognition.js
 
     // ========================================
 
@@ -228,7 +228,8 @@
 
       .remove-btn,
       .undo-btn {
-        background-color: #dc3545;
+        /* background-color: #dc3545; */
+        background-color: #2980b9;
       }
 
       .remove-btn:hover,
@@ -455,7 +456,7 @@
       }
 
       .flip-btn {
-        background-color: #28a745;
+        background-color: #16a085;
       }
 
       .flip-btn:hover {
@@ -464,7 +465,7 @@
 
       .shuffle-btn,
       .invert-btn {
-        background-color: #ffc107;
+        background-color: #f1c40f;
         color: #333;
       }
 
@@ -474,7 +475,7 @@
       }
 
       .nav-btn {
-        background-color: #6c757d;
+        background-color: #95a5a6;
         width: 60px;
         padding: 12px 8px !important;
       }
@@ -821,9 +822,11 @@
         >
           &#x21E4;
         </button>
+
         <button onclick="prevCard()" id="prevBtn" title="Previous (left)">
           ◀
         </button>
+
         <button
           onclick="flipCard()"
           class="flip-btn"
