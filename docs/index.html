@@ -163,5 +163,17 @@
         });
       })();
     </script>
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        console.log("try to load pwabuilder-sw.js");
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("/pwabuilder-sw.js")
+            .then((reg) => console.log("Service Worker registered!", reg.scope))
+            .catch((err) => console.error("Registration failed:", err));
+        });
+      }
+    </script>
   </body>
 </html>
