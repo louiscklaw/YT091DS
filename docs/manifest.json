@@ -3,10 +3,10 @@
   "display": "standalone",
   "start_url": "https://louiscklaw.github.io/YT091DS/",
   "short_name": "得閒認下藥",
-  "theme_color": "#686bd2",
+  "theme_color": "#ffffff",
   "description": "得閒認下藥 app",
   "orientation": "any",
-  "background_color": "#686bd2",
+  "background_color": "#ffffff",
   "related_applications": [],
   "prefer_related_applications": false,
   "icons": [
