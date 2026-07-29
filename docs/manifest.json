@@ -3,17 +3,17 @@
   "name": "PWA Offline Image Gallery",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "./assets/icons/icon_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/icon-512.png",
+      "src": "./assets/icons/icon_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
   "display": "standalone",
