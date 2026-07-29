@@ -14,79 +14,43 @@
     <link rel="manifest" href="./manifest.json" />
     <meta name="theme-color" content="#ffffff" />
 
-    <!--  -->
-
-    <!-- Prefetch a JavaScript file -->
-    <link rel="prefetch" href="/chapter_2_mc.html" as="document" />
-    <link rel="prefetch" href="/chapter_2_mc.js" as="script" />
-    <link rel="prefetch" href="/chapter_3_mc.html" as="document" />
-    <link rel="prefetch" href="/chapter_3_mc.js" as="script" />
-
-    <!-- Prefetch an Image -->
-    <link rel="prefetch" href="/images/image.png" as="image" />
-    <link rel="prefetch" href="/images/image-1.png" as="image" />
-    <link rel="prefetch" href="/images/image-2.png" as="image" />
-    <link rel="prefetch" href="/images/image-3.png" as="image" />
-    <link rel="prefetch" href="/images/image-4.png" as="image" />
-    <link rel="prefetch" href="/images/image-5.png" as="image" />
-    <link rel="prefetch" href="/images/image-6.png" as="image" />
-    <link rel="prefetch" href="/images/image-7.png" as="image" />
-    <link rel="prefetch" href="/images/image-8.png" as="image" />
-    <link rel="prefetch" href="/images/image-9.png" as="image" />
-    <link rel="prefetch" href="/images/image-10.png" as="image" />
-    <link rel="prefetch" href="/images/image-11.png" as="image" />
-    <link rel="prefetch" href="/images/image-12.png" as="image" />
-    <link rel="prefetch" href="/images/image-13.png" as="image" />
-    <link rel="prefetch" href="/images/image-14.png" as="image" />
-    <link rel="prefetch" href="/images/image-15.png" as="image" />
-    <link rel="prefetch" href="/images/image-16.png" as="image" />
-    <link rel="prefetch" href="/images/image-17.png" as="image" />
-    <link rel="prefetch" href="/images/image-18.png" as="image" />
-    <link rel="prefetch" href="/images/image-19.png" as="image" />
-    <link rel="prefetch" href="/images/image-20.png" as="image" />
-    <link rel="prefetch" href="/images/image-21.png" as="image" />
-    <link rel="prefetch" href="/images/image-22.png" as="image" />
-    <link rel="prefetch" href="/images/image-23.png" as="image" />
-    <link rel="prefetch" href="/images/image-24.png" as="image" />
-    <link rel="prefetch" href="/images/image-25.png" as="image" />
-    <link rel="prefetch" href="/images/image-26.png" as="image" />
-    <link rel="prefetch" href="/images/image-27.png" as="image" />
-    <link rel="prefetch" href="/images/image-28.png" as="image" />
-    <link rel="prefetch" href="/images/image-29.png" as="image" />
-    <link rel="prefetch" href="/images/image-30.png" as="image" />
-    <link rel="prefetch" href="/images/image-31.png" as="image" />
-    <link rel="prefetch" href="/images/image-32.png" as="image" />
-    <link rel="prefetch" href="/images/image-33.png" as="image" />
-    <link rel="prefetch" href="/images/image-34.png" as="image" />
-    <link rel="prefetch" href="/images/image-35.png" as="image" />
-    <link rel="prefetch" href="/images/image-36.png" as="image" />
-    <link rel="prefetch" href="/images/image-37.png" as="image" />
-    <link rel="prefetch" href="/images/image-38.png" as="image" />
-    <link rel="prefetch" href="/images/image-39.png" as="image" />
-    <link rel="prefetch" href="/images/image-40.png" as="image" />
-    <link rel="prefetch" href="/images/image-41.png" as="image" />
-    <link rel="prefetch" href="/images/image-42.png" as="image" />
-    <link rel="prefetch" href="/images/image-43.png" as="image" />
-    <link rel="prefetch" href="/images/image-44.png" as="image" />
-    <link rel="prefetch" href="/images/image-45.png" as="image" />
-    <link rel="prefetch" href="/images/image-46.png" as="image" />
-    <link rel="prefetch" href="/images/image-47.png" as="image" />
-    <link rel="prefetch" href="/images/image-48.png" as="image" />
-    <link rel="prefetch" href="/images/image-49.png" as="image" />
-    <link rel="prefetch" href="/images/image-50.png" as="image" />
-    <link rel="prefetch" href="/images/image-51.png" as="image" />
-    <link rel="prefetch" href="/images/image-52.png" as="image" />
-    <link rel="prefetch" href="/images/image-53.png" as="image" />
-    <link rel="prefetch" href="/images/image-54.png" as="image" />
-    <link rel="prefetch" href="/images/image-55.png" as="image" />
-    <link rel="prefetch" href="/images/image-56.png" as="image" />
-    <link rel="prefetch" href="/images/image-57.png" as="image" />
-    <link rel="prefetch" href="/images/image-58.png" as="image" />
-    <link rel="prefetch" href="/images/image-59.png" as="image" />
-    <link rel="prefetch" href="/images/image.png" as="image" />
-    <link rel="prefetch" href="/images/image-xx.png" as="image" />
-
-    <!-- Prefetch an entire HTML sub-page -->
+    <style>
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        padding: 20px;
+      }
+      .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+      }
+      .img-box {
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      img {
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+        display: block;
+      }
+      #status {
+        padding: 10px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+      .online {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      .offline {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+    </style>
   </head>
   <body
     class="bg-light d-flex flex-column min-vh-100 justify-content-center align-items-center"
@@ -111,7 +75,7 @@
                 >📖 002 - Chapter 3 MC</a
               >
               <a
-                href="./herbs_recognition.html"
+                href="/herbs_recognition.html"
                 class="btn btn-success btn-lg py-3 fw-semibold shadow-sm text-start"
                 style="background-color: #22a6b3"
                 >📖 003 - 得閒認下藥</a
@@ -146,108 +110,15 @@
                 target="_blank"
                 >🔧 原始碼</a
               >
+
+              <a href="/hello1.html">hello 1</a>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <!-- Bootstrap 5 JS Bundle CDN (optional for interactive components) -->
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-      crossorigin="anonymous"
-    ></script>
-    <script>
-      document
-        .getElementById("shareBtn")
-        .addEventListener("click", function () {
-          const url = window.location.href;
 
-          if (navigator.clipboard && navigator.clipboard.writeText) {
-            navigator.clipboard
-              .writeText(url)
-              .then(function () {
-                alert("條 link 而家係剪貼簿，可以分享比朋友啦 🙌");
-              })
-              .catch(function (err) {
-                fallbackCopyText(url);
-              });
-          } else {
-            fallbackCopyText(url);
-          }
-
-          function fallbackCopyText(text) {
-            const textarea = document.createElement("textarea");
-            textarea.value = text;
-            textarea.style.position = "fixed"; // Avoid scrolling to bottom
-            textarea.style.top = "0";
-            textarea.style.left = "0";
-            textarea.style.opacity = "0";
-            document.body.appendChild(textarea);
-            textarea.focus();
-            textarea.select();
-            try {
-              const successful = document.execCommand("copy");
-              if (successful) {
-                alert("條 link 而家係剪貼簿，可以分享比朋友啦 🙌");
-              } else {
-                alert("Failed to copy link");
-              }
-            } catch (err) {
-              alert("Failed to copy link");
-            }
-            document.body.removeChild(textarea);
-          }
-        });
-    </script>
-
-    <script>
-      // sets up a message channel with es-dev-server to receive events
-      // for reloading the browser on file change or logging errors
-      (function () {
-        if (!("EventSource" in window)) {
-          return;
-        }
-
-        var eventSource = new EventSource("/__es-dev-server__/message-channel");
-        var reloading = false;
-
-        eventSource.addEventListener("file-changed", function (e) {
-          reloading = true;
-          location.reload();
-        });
-
-        eventSource.addEventListener("error-message", function (e) {
-          if (reloading) {
-            return;
-          }
-
-          console.error(JSON.parse(e.data));
-        });
-
-        eventSource.addEventListener("error", function () {
-          if (reloading) {
-            return;
-          }
-
-          console.log(
-            "Disconnected from es-dev-server, no longer reloading on file changes.",
-          );
-          eventSource.close();
-        });
-      })();
-    </script>
-
-    <script>
-      if ("serviceWorker" in navigator) {
-        console.log("try to load pwabuilder-sw.js");
-        window.addEventListener("load", () => {
-          navigator.serviceWorker
-            .register("/pwabuilder-sw.js")
-            .then((reg) => console.log("Service Worker registered!", reg.scope))
-            .catch((err) => console.error("Registration failed:", err));
-        });
-      }
-    </script>
+    <!-- Main JavaScript File -->
+    <script src="/index.js"></script>
   </body>
 </html>

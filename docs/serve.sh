@@ -2,4 +2,4 @@
 
 set -ex
 
-npx live-server . --host=0.0.0.0 --mount=/manifest.json:manifest.json
+npx live-server . --host=0.0.0.0

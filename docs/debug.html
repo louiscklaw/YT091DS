@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PWA Offline Image Demo</title>
+
+    <link rel="manifest" href="/manifest.json" />
+
+    <style>
+      body {
+        font-family: sans-serif;
+        text-align: center;
+        padding: 20px;
+      }
+      .gallery {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+      }
+      .img-box {
+        border: 1px solid #ccc;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      img {
+        width: 300px;
+        height: 200px;
+        object-fit: cover;
+        display: block;
+      }
+      #status {
+        padding: 10px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+      .online {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      .offline {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>PWA Offline Image Gallery</h1>
+
+    <!-- Network Status Indicator -->
+    <div id="status" class="online">Checking connection...</div>
+
+    <!-- Image Gallery -->
+    <div class="gallery">
+      <div class="img-box">
+        <h3>Image 1</h3>
+        <!-- This image will be cached on first load -->
+        <img src="/images/image-1.png" alt="Mountain View" />
+      </div>
+      <div class="img-box">
+        <h3>Image 2</h3>
+        <!-- This image will also be cached on first load -->
+        <img src="/images/image-2.png" alt="Office Desk" />
+      </div>
+    </div>
+
+    <!-- Main JavaScript File -->
+    <script src="/index.js"></script>
+  </body>
+</html>
