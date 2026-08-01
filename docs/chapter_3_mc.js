@@ -1,4 +1,4 @@
-// chapter_3_mc.js / chapter_3_mc.md
+// chapter_3_mc.js / chapter_3_mc.md / question pool for chapter 3
 // schemas:
 // [
 //  [QUESTION, ANSWER],
