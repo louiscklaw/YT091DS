@@ -724,23 +724,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-xx.png);"></div>
-<div>測試用，唔洗考</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">43. 鬼臼</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>xxxx。</div>
-  <div class="herbs-answer-minor">【功效】<br/>yyyy。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>zzzz。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>本品乃植物根部、棕褐色本質化，有粗狀鬚根、含毒素。</div>
-  <div class="herbs-answer-category">blablablabla</div>
-  <a href="">no reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-44.png);"></div>
@@ -1004,6 +988,23 @@ let FLASHCARDS = [
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g，大劑量 30g。生山楂、炒山楂多用於消食散瘀，焦山楂、山楂炭多用於收澀止血。</div>
   <div class="herbs-answer-category">消食藥</div>
   <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00203">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-xx.png);"></div>
+<div>測試用，唔洗考</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">999. 鬼臼</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>xxxx。</div>
+  <div class="herbs-answer-minor">【功效】<br/>yyyy。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>zzzz。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>本品乃植物根部、棕褐色本質化，有粗狀鬚根、含毒素。</div>
+  <div class="herbs-answer-category">blablablabla</div>
+  <a href="">no reference</a>
 </div>
 `,
   ],
