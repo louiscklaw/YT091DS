@@ -18,6 +18,24 @@ let FLASHCARDS = [
   ],
   [
     `
+<div class="herbs-image" style="background-image: url(./images/image-4.png);"></div>
+<div>【功效】發汗解表，化濕和中，利水消腫。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">5. 香薷(音:宜)</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛，微溫。歸肺、胃、脾經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>發汗解表，化濕和中，利水消腫。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。不宜久煎。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>汗多表虛者忌用。利水退腫須濃煎。</div>
+  <div class="herbs-answer-category">解表藥 / 發散風寒藥</div>
+  <a href="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php?q=%F0%B8">薷</a>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00289">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
 <div class="herbs-image" style="background-image: url(./images/image-1.png);"></div>
 <div>【功效】發汗解肌，溫經通脈，通陽化氣。</div>  
 `,
@@ -40,13 +58,29 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">3. 紫蘇葉</div>
+  <div class="herbs-answer-name">3. 紫 蘇 葉</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，理氣寬中，解魚蟹毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。芳香氣烈，不宜久煎</div>
   <div class="herbs-answer-category">解表藥 / 發散風寒藥</div>
   <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00338">hkbu reference</a>
   
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-17.png);"></div>
+<div>【功效】發散風熱，清肺止咳，平肝明目。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">18. 桑 葉</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦，寒。歸肺、肝經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>發散風熱，清肺止咳，平肝明目。</div>
+  【用法用置】煎服，5～10g。或入丸散。炙桑葉長於潤肺止咳。
+  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00334">hkbu reference</a>
 </div>
 `,
   ],
@@ -67,24 +101,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-4.png);"></div>
-<div>【功效】發汗解表，化濕和中，利水消腫。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">5. 香薷(音:宜)</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛，微溫。歸肺、胃、脾經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>發汗解表，化濕和中，利水消腫。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。不宜久煎。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>汗多表虛者忌用。利水退腫須濃煎。</div>
-  <div class="herbs-answer-category">解表藥 / 發散風寒藥</div>
-  <a href="https://humanum.arts.cuhk.edu.hk/Lexis/lexi-can/search.php?q=%F0%B8">薷</a>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00289">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-5.png);"></div>
@@ -137,6 +154,40 @@ let FLASHCARDS = [
   ],
   [
     `
+<div class="herbs-image" style="background-image: url(./images/image-10.png);"></div>
+<div>【功效】祛風散寒，勝濕止痛。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">11. 藁(音:稿)本</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸膀胱、肝經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>祛風散寒，勝濕止痛。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>血虛頭痛及熱證均慎用。</div>
+  <div class="herbs-answer-category">解表藥 / 發散風寒藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00061">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-21.png);"></div>
+<div>【功效】解表透疹，清熱解毒，升舉陽氣。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">22. 升麻</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微寒。歸肺、脾、胃、大腸經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>解表透疹，清熱解毒，升舉陽氣。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。發表透疹、清熱解毒宜生用，升陽舉陷宜炙用。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>麻疹已透，陰虛火旺，以及陰虛陽亢者，均當忌用。</div>
+  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00101">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
 <div class="herbs-image" style="background-image: url(./images/image-8.png);"></div>
 <div>【功效】解表散寒，祛風止痛，通鼻竅，燥濕止帶，消腫排膿。</div>  
 `,
@@ -171,18 +222,18 @@ let FLASHCARDS = [
   ],
   [
     `
-<div class="herbs-image" style="background-image: url(./images/image-10.png);"></div>
-<div>【功效】祛風散寒，勝濕止痛。</div>  
+<div class="herbs-image" style="background-image: url(./images/image-32.png);"></div>
+<div>【功效】清熱燥濕，瀉肝膽火。</div>  
 `,
     `
 <div>
-  <div class="herbs-answer-name">11. 藁(音:稿)本</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸膀胱、肝經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>祛風散寒，勝濕止痛。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>血虛頭痛及熱證均慎用。</div>
-  <div class="herbs-answer-category">解表藥 / 發散風寒藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00061">hkbu reference</a>
+  <div class="herbs-answer-name">33. 龍 膽</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肝、膽經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉肝膽火。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～6g。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>脾胃寒者不宜用，陰虛津傷者慎用．</div>
+  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00081">hkbu reference</a>
 </div>
 `,
   ],
@@ -272,6 +323,39 @@ let FLASHCARDS = [
   ],
   [
     `
+<div class="herbs-image" style="background-image: url(./images/image-19.png);"></div>
+<div>【功效】發散風熱，清利頭目，止痛。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">20. 蔓荊子</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，微寒。歸膀胱、肝、胃經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>發散風熱，清利頭目，止痛。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～10g。外用適量。</div>
+  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00194">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-25.png);"></div>
+<div>【功效】清熱明目，潤腸通便。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">26. 決明子</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦、鹹，微寒。歸肝、大腸經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>清熱明目，潤腸通便。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15 克；用於潤腸通便，不宜久煎。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>氣虛便溏者不宜用。</div>
+  <div class="herbs-answer-category">清熱藥 / 清熱瀉火藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00188">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
 <div class="herbs-image" style="background-image: url(./images/image-16.png);"></div>
 <div>【功效】發散風熱，透疹止癢，止痙，明目退翳。</div>  
 `,
@@ -287,22 +371,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-17.png);"></div>
-<div>【功效】發散風熱，清肺止咳，平肝明目。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">18. 桑 葉</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦，寒。歸肺、肝經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>發散風熱，清肺止咳，平肝明目。</div>
-  【用法用置】煎服，5～10g。或入丸散。炙桑葉長於潤肺止咳。
-  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00334">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-18.png);"></div>
@@ -319,22 +388,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-19.png);"></div>
-<div>【功效】發散風熱，清利頭目，止痛。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">20. 蔓荊子</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，微寒。歸膀胱、肝、胃經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>發散風熱，清利頭目，止痛。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～10g。外用適量。</div>
-  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00194">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-20.png);"></div>
@@ -354,18 +408,67 @@ let FLASHCARDS = [
   ],
   [
     `
-<div class="herbs-image" style="background-image: url(./images/image-21.png);"></div>
-<div>【功效】解表透疹，清熱解毒，升舉陽氣。</div>  
+<div class="herbs-image" style="background-image: url(./images/image-29.png);"></div>
+<div>【功效】清熱燥濕，瀉火解毒，止血，安胎。</div>  
 `,
     `
 <div>
-  <div class="herbs-answer-name">22. 升麻</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微寒。歸肺、脾、胃、大腸經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>解表透疹，清熱解毒，升舉陽氣。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。發表透疹、清熱解毒宜生用，升陽舉陷宜炙用。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>麻疹已透，陰虛火旺，以及陰虛陽亢者，均當忌用。</div>
-  <div class="herbs-answer-category">解表藥 / 發散風熱藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00101">hkbu reference</a>
+  <div class="herbs-answer-name">30. 黃芩</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肺、膽、脾、胃、大腸、小腸經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒，止血，安胎。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。清熱多生用，安胎多炒用，清上焦熱可酒炙用，止血可炒炭用。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>本品苦寒傷胃，脾胃虛寒者不宜使用。</div>
+  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00072">hkbu reference</a>
+</div>
+`,
+  ], [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-30.png);"></div>
+<div>【功效】清熱燥濕，瀉火解毒。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">31. 黃 連</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸心，脾、胃、膽、大腸經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，2～5g。外用適量。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>本品大苦大寒，過服久服易傷脾胃，脾胃虛寒者忌用；苦燥易傷陰津，陰虛津傷者慎用。</div>
+  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00070">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-45.png);"></div>
+<div>【功效】舒筋活絡，和胃化濕。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">45. 木 瓜</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>酸，溫。歸肝、脾經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>舒筋活絡，和胃化濕。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～9g。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>內有鬱熱，小便短赤者忌服。</div>
+  <div class="herbs-answer-category">祛風濕藥 / 祛風濕散寒藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00195">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-47.png);"></div>
+<div>【功效】袪風濕，通絡止痛，退虛熱，清濕熱。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">47. 秦艽(音:交/球)</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，平。歸胃、肝、膽經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>袪風濕，通絡止痛，退虛熱，清濕熱。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。</div>
+  <div class="herbs-answer-category">祛風濕藥 / 祛風濕清熱藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00095">hkbu reference</a>
 </div>
 `,
   ],
@@ -419,23 +522,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-25.png);"></div>
-<div>【功效】清熱明目，潤腸通便。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">26. 決明子</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦、鹹，微寒。歸肝、大腸經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>清熱明目，潤腸通便。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15 克；用於潤腸通便，不宜久煎。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>氣虛便溏者不宜用。</div>
-  <div class="herbs-answer-category">清熱藥 / 清熱瀉火藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00188">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-26.png);"></div>
@@ -472,57 +559,6 @@ let FLASHCARDS = [
   ],
   [
     `
-<div class="herbs-image" style="background-image: url(./images/image-28.png);"></div>
-<div>【功效】清熱瀉火，生津止渴，消腫排膿。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">29. 天花粉</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>甘、微苦，微寒。歸肺、胃經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>清熱瀉火，生津止渴，消腫排膿。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>不宜於烏頭類藥材同用。</div>
-  <div class="herbs-answer-category">清熱藥 / 清熱瀉火藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00104">hkbu reference</a>
-</div>
-`,
-  ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-29.png);"></div>
-<div>【功效】清熱燥濕，瀉火解毒，止血，安胎。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">30. 黃芩</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肺、膽、脾、胃、大腸、小腸經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒，止血，安胎。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。清熱多生用，安胎多炒用，清上焦熱可酒炙用，止血可炒炭用。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>本品苦寒傷胃，脾胃虛寒者不宜使用。</div>
-  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00072">hkbu reference</a>
-</div>
-`,
-  ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-30.png);"></div>
-<div>【功效】清熱燥濕，瀉火解毒。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">31. 黃 連</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸心，脾、胃、膽、大腸經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，2～5g。外用適量。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>本品大苦大寒，過服久服易傷脾胃，脾胃虛寒者忌用；苦燥易傷陰津，陰虛津傷者慎用。</div>
-  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00070">hkbu reference</a>
-</div>
-`,
-  ],
-  [
-    `
 <div class="herbs-image" style="background-image: url(./images/image-31.png);"></div>
 <div>【功效】清熱燥濕，瀉火除蒸，解毒療瘡。</div>  
 `,
@@ -538,23 +574,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-32.png);"></div>
-<div>【功效】清熱燥濕，瀉肝膽火。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">33. 龍 膽</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肝、膽經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉肝膽火。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～6g。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>脾胃寒者不宜用，陰虛津傷者慎用．</div>
-  <div class="herbs-answer-category">清熱藥 / 清熱燥濕藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00081">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-33.png);"></div>
@@ -742,23 +762,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-45.png);"></div>
-<div>【功效】舒筋活絡，和胃化濕。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">45. 木 瓜</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>酸，溫。歸肝、脾經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>舒筋活絡，和胃化濕。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～9g。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>內有鬱熱，小便短赤者忌服。</div>
-  <div class="herbs-answer-category">祛風濕藥 / 祛風濕散寒藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00195">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-46.png);"></div>
@@ -776,22 +780,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-47.png);"></div>
-<div>【功效】袪風濕，通絡止痛，退虛熱，清濕熱。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">47. 秦艽(音:交/球)</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，平。歸胃、肝、膽經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>袪風濕，通絡止痛，退虛熱，清濕熱。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。</div>
-  <div class="herbs-answer-category">祛風濕藥 / 祛風濕清熱藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00095">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-48.png);"></div>
@@ -827,22 +816,6 @@ let FLASHCARDS = [
   ],
   [
     `
-<div class="herbs-image" style="background-image: url(./images/image-50.png);"></div>
-<div>【功效】袪風通絡，涼血消腫。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">50. 絡 石 藤</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>苦，微寒。歸心、肝、腎經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>袪風通絡，涼血消腫。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。外用，適量，鮮品搗敷。</div>
-  <div class="herbs-answer-category">祛風濕藥 / 祛風濕清熱藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00142">hkbu reference</a>
-</div>
-`,
-  ],
-  [
-    `
 <div class="herbs-image" style="background-image: url(./images/image-51.png);"></div>
 <div>【功效】祛風濕，活血通絡，消腫止痛，殺蟲解毒。</div>  
 `,
@@ -858,6 +831,40 @@ let FLASHCARDS = [
 </div>
 `,
   ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-28.png);"></div>
+<div>【功效】清熱瀉火，生津止渴，消腫排膿。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">29. 天花粉</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>甘、微苦，微寒。歸肺、胃經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>清熱瀉火，生津止渴，消腫排膿。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>不宜於烏頭類藥材同用。</div>
+  <div class="herbs-answer-category">清熱藥 / 清熱瀉火藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00104">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
+<div class="herbs-image" style="background-image: url(./images/image-50.png);"></div>
+<div>【功效】袪風通絡，涼血消腫。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">50. 絡 石 藤</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>苦，微寒。歸心、肝、腎經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>袪風通絡，涼血消腫。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。外用，適量，鮮品搗敷。</div>
+  <div class="herbs-answer-category">祛風濕藥 / 祛風濕清熱藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00142">hkbu reference</a>
+</div>
+`,
+  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-52.png);"></div>
@@ -911,6 +918,23 @@ let FLASHCARDS = [
   ],
   [
     `
+<div class="herbs-image" style="background-image: url(./images/image-58.png);"></div>
+<div>【功效】補腎助陽，祛風除濕。</div>  
+`,
+    `
+<div>
+  <div class="herbs-answer-name">58. 巴戟天</div>
+  <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微溫。歸腎、肝經。</div>
+  <div class="herbs-answer-minor">【功效】<br/>補腎助陽，祛風除濕。</div>
+  <div class="herbs-answer-minor">【用法用量】<br/>水煎服，5～15g。</div>
+  <div class="herbs-answer-minor">【使用注意】<br/>陰虛火旺及有熱者不宜服。</div>
+  <div class="herbs-answer-category">補益藥 / 助陽藥</div>
+  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00033">hkbu reference</a>
+</div>
+`,
+  ],
+  [
+    `
 <div class="herbs-image" style="background-image: url(./images/image-55.png);"></div>
 <div>【功效】益胃生津，滋陰清熱。</div>  
 `,
@@ -958,23 +982,7 @@ let FLASHCARDS = [
 </div>
 `,
   ],
-  [
-    `
-<div class="herbs-image" style="background-image: url(./images/image-58.png);"></div>
-<div>【功效】補腎助陽，祛風除濕。</div>  
-`,
-    `
-<div>
-  <div class="herbs-answer-name">58. 巴戟天</div>
-  <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微溫。歸腎、肝經。</div>
-  <div class="herbs-answer-minor">【功效】<br/>補腎助陽，祛風除濕。</div>
-  <div class="herbs-answer-minor">【用法用量】<br/>水煎服，5～15g。</div>
-  <div class="herbs-answer-minor">【使用注意】<br/>陰虛火旺及有熱者不宜服。</div>
-  <div class="herbs-answer-category">補益藥 / 助陽藥</div>
-  <a href="https://sys01.lib.hkbu.edu.hk/cmed/mmid/detail.php?pid=B00033">hkbu reference</a>
-</div>
-`,
-  ],
+
   [
     `
 <div class="herbs-image" style="background-image: url(./images/image-59.png);"></div>
