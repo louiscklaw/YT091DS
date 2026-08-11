@@ -79,9 +79,9 @@ const ASSETS_TO_CACHE = [
     './images/image-59.png',
     './images/image-xx.png',
     // 
-    // '/chapter_2_mc.html',
+    '/chapter_2_mc.html',
     // '/chapter_2_mc.js',
-    // '/chapter_3_mc.html',
+    '/chapter_3_mc.html',
     // '/chapter_3_mc.js',
     // // 
     './herbs_recognition.html',
