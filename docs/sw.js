@@ -6,10 +6,10 @@ const ASSETS_TO_CACHE = [
     './manifest.json',
     './fallback-offline.png',
     // 
-    // './assets/all.min.css',
-    // './webfonts/fa-solid-900.woff2',
-    // './webfonts/fa-regular-400.woff2',
-    // './webfonts/fa-brands-400.woff2',
+    './assets/all.min.css',
+    './webfonts/fa-solid-900.woff2',
+    './webfonts/fa-regular-400.woff2',
+    './webfonts/fa-brands-400.woff2',
 
     // 
 

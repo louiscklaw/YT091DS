@@ -3,6 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+    <link rel="manifest" href="/manifest.json" />
+
     <title>得閒温下書</title>
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
     <style data-purpose="custom-fonts">
@@ -138,5 +141,17 @@
       </div>
     </main>
     <!-- END: MainContent -->
+
+    <script>
+      // Check if the browser supports service workers
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker
+            .register("/sw.js")
+            .then((reg) => console.log("Service Worker registered!", reg))
+            .catch((err) => console.error("Registration failed:", err));
+        });
+      }
+    </script>
   </body>
 </html>
