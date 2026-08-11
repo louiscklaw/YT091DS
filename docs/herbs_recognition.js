@@ -6,7 +6,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">1. 麻 黃</div>
+  <div class="herbs-answer-name">1. 麻 黃，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、微苦，溫。歸肺、膀胱經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，宣肺平喘，利水消腫。</div>
   <div class="herbs-answer-minor"> 用法用量】<br/><br/>煎服，2～10g。</div>
@@ -23,7 +23,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">5. 香薷(音:宜)</div>
+  <div class="herbs-answer-name">5. 香薷(音:宜)，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，微溫。歸肺、胃、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，化濕和中，利水消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。不宜久煎。</div>
@@ -41,7 +41,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">2. 桂 枝</div>
+  <div class="herbs-answer-name">2. 桂 枝，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，溫。歸肺、心、膀胱經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解肌，溫經通脈，通陽化氣。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。蜜炙桂枝偏補中助陽，多用於虛寒腹痛。</div>
@@ -58,7 +58,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">3. 紫 蘇 葉</div>
+  <div class="herbs-answer-name">3. 紫 蘇 葉，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，理氣寬中，解魚蟹毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。芳香氣烈，不宜久煎</div>
@@ -75,7 +75,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">18. 桑 葉</div>
+  <div class="herbs-answer-name">18. 桑 葉，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦，寒。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，清肺止咳，平肝明目。</div>
   【用法用置】煎服，5～10g。或入丸散。炙桑葉長於潤肺止咳。
@@ -91,7 +91,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">4. 生薑</div>
+  <div class="herbs-answer-name">4. 生薑，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、脾、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解表散寒，溫中止嘔，溫肺止咳。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g，或搗汁服。</div>
@@ -109,7 +109,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">6. 荊 芥</div>
+  <div class="herbs-answer-name">6. 荊 芥，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，微溫。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>祛風解表，透疹止癢，消瘡，止血。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～10g。荊芥穗發汗解表力強，善散頭面風邪；荊芥炭長於止血；生用長於解表透疹消瘡。</div>
@@ -125,7 +125,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">7. 防 風</div>
+  <div class="herbs-answer-name">7. 防 風，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微溫，歸膀胱、肝、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>祛風解表，勝濕止痛，止痙，止瀉，</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～l0g。</div>
@@ -142,7 +142,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">8. 羌 活</div>
+  <div class="herbs-answer-name">8. 羌 活，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，溫。歸膀胱、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解表散寒，祛風勝濕，止痛。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。</div>
@@ -159,7 +159,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">11. 藁(音:稿)本</div>
+  <div class="herbs-answer-name">11. 藁(音:稿)，溫本</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸膀胱、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>祛風散寒，勝濕止痛。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。</div>
@@ -176,7 +176,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">22. 升麻</div>
+  <div class="herbs-answer-name">22. 升麻，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微寒。歸肺、脾、胃、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解表透疹，清熱解毒，升舉陽氣。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。發表透疹、清熱解毒宜生用，升陽舉陷宜炙用。</div>
@@ -193,7 +193,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">9. 白 芷 (音: 止)</div>
+  <div class="herbs-answer-name">9. 白 芷 (音:，溫 止)</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、胃、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解表散寒，祛風止痛，通鼻竅，燥濕止帶，消腫排膿。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。外用適量。</div>
@@ -210,7 +210,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">10. 細辛</div>
+  <div class="herbs-answer-name">10. 細辛，溫 有小毒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。有小毒。歸肺、腎、心經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解表散寒，祛風止痛，通竅，溫肺化飲。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，1～3g。</div>
@@ -227,7 +227,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">33. 龍 膽</div>
+  <div class="herbs-answer-name">33. 龍 膽，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肝、膽經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉肝膽火。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～6g。</div>
@@ -244,7 +244,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">12. 蒼耳子</div>
+  <div class="herbs-answer-name">12. 蒼耳子，溫 有小毒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，溫；有小毒。歸肺經。</div>
   <div class="herbs-answer-minor">【功效】<br/>祛風解表，宣通鼻竅，除濕止痛。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。或入丸散劑。</div>
@@ -261,7 +261,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">13. 蔥 白</div>
+  <div class="herbs-answer-name">13. 蔥 白，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，散寒通陽。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。外用適量。</div>
@@ -277,7 +277,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">14. 辛 夷</div>
+  <div class="herbs-answer-name">14. 辛 夷，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，溫。歸肺、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風寒，宣通鼻竅。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。有毛，刺激咽喉，入煎劑宜包煎。外用適量。</div>
@@ -294,7 +294,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">15. 薄 荷</div>
+  <div class="herbs-answer-name">15. 薄 荷，涼</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，涼。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，清利頭目，利咽，透疹，疏肝解鬱。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～6g。宜後下。薄荷葉長於發汗；薄荷梗長於理氣。</div>
@@ -311,7 +311,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">16. 牛蒡子</div>
+  <div class="herbs-answer-name">16. 牛蒡子，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，寒。歸肺、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，宣肺透疹，利咽散結，解毒消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。或入丸、散。入湯劑宜搗碎。炒牛蒡子苦寒及滑腸之性略有降低。</div>
@@ -328,7 +328,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">20. 蔓荊子</div>
+  <div class="herbs-answer-name">20. 蔓荊子，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，微寒。歸膀胱、肝、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，清利頭目，止痛。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～10g。外用適量。</div>
@@ -344,7 +344,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">26. 決明子</div>
+  <div class="herbs-answer-name">26. 決明子，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦、鹹，微寒。歸肝、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱明目，潤腸通便。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15 克；用於潤腸通便，不宜久煎。</div>
@@ -361,7 +361,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">17. 蟬 蛻</div>
+  <div class="herbs-answer-name">17. 蟬 蛻，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘，寒。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，透疹止癢，止痙，明目退翳。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～6g。一般病證用量宜小；用於止痙量需大。</div>
@@ -379,7 +379,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">19. 菊花</div>
+  <div class="herbs-answer-name">19. 菊花，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘、苦，微寒。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發散風熱，清肝明目，平抑肝陽，清熱解毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～10g。疏散風熱多用白菊花(杭菊花)；平肝明目多用黃菊花(滁菊花)。</div>
@@ -396,7 +396,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">21. 柴胡</div>
+  <div class="herbs-answer-name">21. 柴胡，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦、辛，微寒。歸肝、膽經。</div>
   <div class="herbs-answer-minor">【功效】<br/>疏散退熱，疏肝解鬱，升舉陽氣。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。醋柴胡長於疏肝解鬱；酒柴胡長於行血調經。</div>
@@ -413,7 +413,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">30. 黃芩</div>
+  <div class="herbs-answer-name">30. 黃芩，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肺、膽、脾、胃、大腸、小腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒，止血，安胎。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。清熱多生用，安胎多炒用，清上焦熱可酒炙用，止血可炒炭用。</div>
@@ -429,7 +429,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">31. 黃 連</div>
+  <div class="herbs-answer-name">31. 黃 連，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸心，脾、胃、膽、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火解毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，2～5g。外用適量。</div>
@@ -446,7 +446,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">45. 木 瓜</div>
+  <div class="herbs-answer-name">45. 木 瓜，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>酸，溫。歸肝、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>舒筋活絡，和胃化濕。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～9g。</div>
@@ -463,7 +463,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">47. 秦艽(音:交/球)</div>
+  <div class="herbs-answer-name">47. 秦艽(音:交/球)，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，平。歸胃、肝、膽經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風濕，通絡止痛，退虛熱，清濕熱。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。</div>
@@ -479,7 +479,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">23. 葛根</div>
+  <div class="herbs-answer-name">23. 葛根，涼</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、辛，涼。歸脾、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解肌退熱，透疹，生津止渴，升陽止瀉。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，9～15g。解肌退熱、透疹、生津宜生用，升陽止瀉宜煨用。</div>
@@ -495,7 +495,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">24. 浮 萍</div>
+  <div class="herbs-answer-name">24. 浮 萍，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛，寒。歸肺、膀胱經。</div>
   <div class="herbs-answer-minor">【功效】<br/>發汗解表，透疹止癢，利尿消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服 3～9g。外用適量，煎湯浸洗。</div>
@@ -512,7 +512,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">25. 木 賊</div>
+  <div class="herbs-answer-name">25. 木 賊，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦，平。歸肺、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>疏散風熱，明目退翳。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～10g。或入丸、散。外用適量。</div>
@@ -530,7 +530,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">27. 石 膏</div>
+  <div class="herbs-answer-name">27. 石 膏，大寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、辛，大寒。歸肺、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>生用：清熱瀉火，除煩止渴；煆用：斂瘡生肌，收濕，止血。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>生石膏煎服，15～60g,宜先煎。煆石膏適量外用，研末撒敷患處。</div>
@@ -547,7 +547,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">28. 知 母</div>
+  <div class="herbs-answer-name">28. 知 母，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦、甘，寒。歸肺、胃、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱瀉火，生津潤燥。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。</div>
@@ -564,7 +564,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">32. 黃 柏</div>
+  <div class="herbs-answer-name">32. 黃 柏，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸腎、膀胱、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱燥濕，瀉火除蒸，解毒療瘡。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～12g。外用適量。</div>
@@ -582,7 +582,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">34. 金 銀 花</div>
+  <div class="herbs-answer-name">34. 金 銀 花，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘，寒。歸肺、心、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱解毒，疏散風熱。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～15g。疏散風熱、清泄裏熱以生品為佳；炒炭宜用於熱毒血痢；露劑多用於暑熱煩渴。</div>
@@ -599,7 +599,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">35. 連 翹</div>
+  <div class="herbs-answer-name">35. 連 翹，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，微寒，歸肺、心、小腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱解毒，消腫散結，疏散風熱。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～15g。</div>
@@ -616,7 +616,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">36. 板藍根</div>
+  <div class="herbs-answer-name">36. 板藍根，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸心、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱解毒，涼血，利咽。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服， 9～15g。</div>
@@ -633,7 +633,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">37. 土茯苓</div>
+  <div class="herbs-answer-name">37. 土茯苓，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、淡，平。歸肝、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>解毒，除濕，通利關節。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，15～60g。外用適量。</div>
@@ -650,7 +650,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">38. 射干</div>
+  <div class="herbs-answer-name">38. 射干，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸肺經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱解毒，消痰，利咽。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。</div>
@@ -667,7 +667,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">39. 玄參</div>
+  <div class="herbs-answer-name">39. 玄參，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、苦、鹹，微寒。歸肺、胃、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱涼血，瀉火解毒，滋陰。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g。</div>
@@ -684,7 +684,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">40. 大黃</div>
+  <div class="herbs-answer-name">40. 大黃，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，寒。歸脾、胃、大腸、肝、心包經。</div>
   <div class="herbs-answer-minor">【功效】<br/>瀉下攻積，清熱瀉火，涼血解毒，逐瘀通經。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～15g；入湯劑應後下，或用開水泡服。外用適量。</div>
@@ -701,7 +701,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">41. 芒 硝</div>
+  <div class="herbs-answer-name">41. 芒 硝，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>鹹、苦，寒。歸胃、大腸經。</div>
   <div class="herbs-answer-minor">【功效】<br/>瀉下攻積，潤燥軟堅，清熱消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>10～15g，沖入藥汁內或開水溶化後服。外用適量。</div>
@@ -718,7 +718,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">42. 獨 活</div>
+  <div class="herbs-answer-name">42. 獨 活，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、苦，微溫。歸腎、膀胱經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風濕，止痛，解表。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，3～9g。外用，適量。</div>
@@ -734,7 +734,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">43. 威 靈 仙</div>
+  <div class="herbs-answer-name">43. 威 靈 仙，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、鹹，溫。歸膀胱經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風濕，通絡止痛，消骨鯁。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～9g。外用，適量。</div>
@@ -752,7 +752,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">44. 烏 梢 蛇</div>
+  <div class="herbs-answer-name">44. 烏 梢 蛇，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘，平。歸肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風，通絡，止痙。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，9～12g；研末，每次 2～3g；或入丸劑、酒浸服。外用，適量。</div>
@@ -770,7 +770,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">46. 路 路 通</div>
+  <div class="herbs-answer-name">46. 路 路 通，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，平。歸肝、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風活絡，利水，通經。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～9g。外用，適量。</div>
@@ -788,7 +788,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">48. 漢防己</div>
+  <div class="herbs-answer-name">48. 漢防己，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦、辛，寒。歸膀胱、肺經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風濕，止痛，利水消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，4.5～9g。</div>
@@ -805,7 +805,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">49. 桑 枝</div>
+  <div class="herbs-answer-name">49. 桑 枝，平</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>微苦，平。歸肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風濕，利關節。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，9～15g。外用，適量。</div>
@@ -821,7 +821,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">51. 雷 公 藤</div>
+  <div class="herbs-answer-name">51. 雷 公 藤，寒 有大毒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦、辛，寒。有大毒。歸肝、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>祛風濕，活血通絡，消腫止痛，殺蟲解毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎湯，10～25g(帶根皮者減量)，文火煎 1～2 小時；研粉，每日 1.5～4.5g。外用，適量。</div>
@@ -838,7 +838,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">29. 天花粉</div>
+  <div class="herbs-answer-name">29. 天花粉，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、微苦，微寒。歸肺、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>清熱瀉火，生津止渴，消腫排膿。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g。</div>
@@ -855,7 +855,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">50. 絡 石 藤</div>
+  <div class="herbs-answer-name">50. 絡 石 藤，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>苦，微寒。歸心、肝、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>袪風通絡，涼血消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。外用，適量，鮮品搗敷。</div>
@@ -872,7 +872,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">52. 昆布</div>
+  <div class="herbs-answer-name">52. 昆布，寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>鹹，寒。歸肝、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>消痰軟堅，利水消腫。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～l2g。</div>
@@ -889,7 +889,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">53. 當歸</div>
+  <div class="herbs-answer-name">53. 當歸，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、辛，溫。歸肝、心、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>補血調經．活血止痛，潤腸通便。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，5～15g。</div>
@@ -906,7 +906,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">54. 西洋參</div>
+  <div class="herbs-answer-name">54. 西洋參，涼</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、微苦，涼。歸肺、心、腎、脾經。</div>
   <div class="herbs-answer-minor">【功效】<br/>補氣養陰，清熱生津。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>另煎兌服，3～6g。</div>
@@ -923,7 +923,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">58. 巴戟天</div>
+  <div class="herbs-answer-name">58. 巴戟天，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>辛、甘，微溫。歸腎、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>補腎助陽，祛風除濕。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>水煎服，5～15g。</div>
@@ -940,7 +940,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">55. 石斛</div>
+  <div class="herbs-answer-name">55. 石斛，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘，微寒。歸胃、腎經。</div>
   <div class="herbs-answer-minor">【功效】<br/>益胃生津，滋陰清熱。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。鮮用，15～30g。</div>
@@ -956,7 +956,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">56. 百合</div>
+  <div class="herbs-answer-name">56. 百合，微寒</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘，微寒。歸肺、心、胃經。</div>
   <div class="herbs-answer-minor">【功效】<br/>養陰潤肺，清心安神。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，6～12g。蜜炙可增加潤肺作用。</div>
@@ -972,7 +972,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">57. 鹿茸</div>
+  <div class="herbs-answer-name">57. 鹿茸，溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>甘、鹹，溫。歸腎、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>補腎陽，益精血，強筋骨，調沖任，托瘡毒。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>研末吞服，1～2ｇ，或入丸、散。</div>
@@ -990,7 +990,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">59. 山楂</div>
+  <div class="herbs-answer-name">59. 山楂，微溫</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>酸、甘，微溫。歸脾、胃、肝經。</div>
   <div class="herbs-answer-minor">【功效】<br/>消食化積，行氣散瘀。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>煎服，10～15g，大劑量 30g。生山楂、炒山楂多用於消食散瘀，焦山楂、山楂炭多用於收澀止血。</div>
@@ -1006,7 +1006,7 @@ let FLASHCARDS = [
 `,
     `
 <div>
-  <div class="herbs-answer-name">999. 鬼臼</div>
+  <div class="herbs-answer-name">999. 鬼臼，唔洗考</div>
   <div class="herbs-answer-taste">【性味歸經】<br/>xxxx。</div>
   <div class="herbs-answer-minor">【功效】<br/>yyyy。</div>
   <div class="herbs-answer-minor">【用法用量】<br/>zzzz。</div>
