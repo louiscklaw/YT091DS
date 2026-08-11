@@ -6,6 +6,8 @@ const ASSETS_TO_CACHE = [
     './manifest.json',
     './fallback-offline.png',
     // 
+    './assets/all.min.css',
+    // 
 
     'https://picsum.photos/300/200?random=1',
     'https://picsum.photos/300/200?random=2',
