@@ -7,6 +7,10 @@ const ASSETS_TO_CACHE = [
     './fallback-offline.png',
     // 
     './assets/all.min.css',
+    '/webfonts/fa-solid-900.woff2',
+    '/webfonts/fa-regular-400.woff2',
+    '/webfonts/fa-brands-400.woff2',
+
     // 
 
     'https://picsum.photos/300/200?random=1',
