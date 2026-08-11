@@ -10,7 +10,8 @@ const ASSETS_TO_CACHE = [
     './webfonts/fa-solid-900.woff2',
     './webfonts/fa-regular-400.woff2',
     './webfonts/fa-brands-400.woff2',
-
+    // 
+    './common.js',
     // 
 
     'https://picsum.photos/300/200?random=1',
@@ -85,6 +86,7 @@ const ASSETS_TO_CACHE = [
     // // 
     './herbs_recognition.html',
     './herbs_recognition.js',
+
 ];
 
 // 1. Install Event: Pre-cache static assets and fallback image
